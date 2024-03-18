@@ -10,7 +10,7 @@ const LoginCard = ({ otpSentHandler, email, setEmail }) => {
     e.preventDefault();
     // write async logic to check otp sent successfully or not
     try {
-      const json = await fetch(`http://localhost:6970/api/v1/auth/send-otp`, {
+      const json = await fetch(`${serverUrl}/api/v1/auth/send-otp`, {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
