@@ -1,3 +1,3 @@
 // export const serverUrl = "https://internvilla-api.onrender.com";
 
-export const serverUrl = "http://localhost:6970";
+export const serverUrl = "https://intern-villa-api.onrender.com";
