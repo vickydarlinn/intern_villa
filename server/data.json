@@ -1,0 +1,4853 @@
+[
+  {
+    "stipendRange": [20000, 25000],
+    "refSkills": [
+      {
+        "name": "Python",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/python-icon.svg"
+      }
+    ],
+    "refOptionalSkills": [],
+    "jobOffer": [],
+    "applicationQuestions": [],
+    "refUser": {
+      "refCompanyProfile": {
+        "companyName": "Dwata Tech Pvt. Ltd",
+        "logoUrl": "",
+        "refLocation": {
+          "city": "Bangalore",
+          "state": "Karnataka",
+          "country": "India",
+          "createdAt": "2021-09-06T12:09:58.433Z",
+          "updatedAt": "2021-09-06T12:09:58.433Z"
+        }
+      }
+    },
+    "internshipStatus": "in-process",
+    "internshipMode": "full-time",
+    "isInternshipModeFlexible": false,
+    "duration": 6,
+    "isDurationFlexible": false,
+    "startDate": "2024-03-20T10:41:30.128Z",
+    "numOfPositions": 1,
+    "isRemoteInternship": true,
+    "refInternshipTitle": {
+      "name": "Data Engineer",
+      "createdAt": "2021-09-06T07:16:02.072Z",
+      "updatedAt": "2021-09-06T07:16:02.072Z",
+      "type": 1
+    },
+    "experienceLevel": 1,
+    "immediate": true,
+    "createdAt": "2024-02-19T10:41:29.884Z",
+    "refAdditionalSkills": [],
+    "applicantCount": 388,
+    "isBookmarked": false,
+    "matchProbability": 10
+  },
+  {
+    "stipendRange": [5000, 30000],
+    "refSkills": [
+      {
+        "name": "React.js",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/React-icon.svg"
+      },
+      {
+        "name": "NextJs",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/next-js.svg"
+      },
+      {
+        "name": "Tailwind",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/tailwindcss-icon.svg"
+      },
+      {
+        "name": "REST",
+        "logoUrl": "https://production-cuvette.s3.amazonaws.com/skillsIcon/rest-api.svg"
+      },
+      {
+        "name": "API",
+        "logoUrl": ""
+      }
+    ],
+    "refOptionalSkills": [],
+    "jobOffer": [],
+    "applicationQuestions": [],
+    "refUser": {
+      "refCompanyProfile": {
+        "companyName": "D2Clytics",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/company/65d2ffa6221bdaae730abeb2/logo.jpg?d=1708326924721",
+        "refLocation": {
+          "city": "",
+          "state": "",
+          "country": "United States Of America (USA)"
+        }
+      }
+    },
+    "internshipStatus": "in-process",
+    "internshipMode": "full-time",
+    "isInternshipModeFlexible": true,
+    "duration": 3,
+    "isDurationFlexible": false,
+    "startDate": "2024-03-20T07:25:34.308Z",
+    "numOfPositions": 2,
+    "isRemoteInternship": true,
+    "refInternshipTitle": {
+      "name": "Frontend Developer",
+      "createdAt": "2021-09-06T07:16:02.072Z",
+      "updatedAt": "2021-09-06T07:16:02.072Z",
+      "type": 1
+    },
+    "refLocation": {
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "country": "India",
+      "createdAt": "2021-09-06T12:09:58.433Z",
+      "updatedAt": "2021-09-06T12:09:58.433Z"
+    },
+    "experienceLevel": 3,
+    "immediate": true,
+    "createdAt": "2024-02-19T07:25:33.767Z",
+    "refAdditionalSkills": [],
+    "applicantCount": 446,
+    "isBookmarked": false,
+    "matchProbability": 10
+  },
+  {
+    "stipendRange": [12000, 15000],
+    "refSkills": [
+      {
+        "name": "Adobe Creative Cloud"
+      },
+      {
+        "name": "Illustrator"
+      },
+      {
+        "name": "InDesign"
+      },
+      {
+        "name": "Photoshop"
+      },
+      {
+        "name": "Typography"
+      }
+    ],
+    "refOptionalSkills": [
+      {
+        "name": "Communication skills"
+      }
+    ],
+    "jobOffer": [],
+    "applicationQuestions": [],
+    "refUser": {
+      "refCompanyProfile": {
+        "companyName": "Locnapps Media Private Limited",
+        "logoUrl": "",
+        "refLocation": {
+          "city": "Gurugram",
+          "state": "Haryana",
+          "country": "India",
+          "createdAt": "2021-09-06T12:09:58.433Z",
+          "updatedAt": "2021-09-06T12:09:58.433Z"
+        }
+      }
+    },
+    "internshipStatus": "in-process",
+    "internshipMode": "full-time",
+    "isInternshipModeFlexible": true,
+    "duration": 3,
+    "isDurationFlexible": false,
+    "startDate": "2024-03-20T06:51:58.144Z",
+    "numOfPositions": 2,
+    "isRemoteInternship": false,
+    "refInternshipTitle": {
+      "name": "UI/UX Designer",
+      "type": 1
+    },
+    "refLocation": {
+      "city": "Gurugram",
+      "state": "Haryana",
+      "country": "India",
+      "createdAt": "2021-09-06T12:09:58.433Z",
+      "updatedAt": "2021-09-06T12:09:58.433Z"
+    },
+    "experienceLevel": 1,
+    "immediate": true,
+    "createdAt": "2024-02-19T06:51:58.419Z",
+    "refAdditionalSkills": [],
+    "applicantCount": 90,
+    "isBookmarked": false,
+    "matchProbability": 10
+  },
+  {
+    "stipendRange": [10000, 12000],
+    "refSkills": [
+      {
+        "name": "Python",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/python-icon.svg"
+      },
+      {
+        "name": "NumPy",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/NumPy-icon.svg"
+      },
+      {
+        "name": "Data Analysis"
+      },
+      {
+        "name": "Data Management"
+      },
+      {
+        "name": "Financial Analysis"
+      }
+    ],
+    "refOptionalSkills": [
+      {
+        "name": "SQL",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/sqlite-icon.svg"
+      },
+      {
+        "name": "Excel"
+      }
+    ],
+    "jobOffer": [3, 4],
+    "applicationQuestions": [],
+    "refUser": {
+      "refCompanyProfile": {
+        "companyName": "Ethan AI",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/company/61e5238fcde0e127faf36d4b/logo.jpg?d=1642406993259",
+        "refLocation": {
+          "city": "",
+          "state": "",
+          "country": "Singapore"
+        }
+      }
+    },
+    "internshipStatus": "in-process",
+    "internshipMode": "full-time",
+    "isInternshipModeFlexible": true,
+    "duration": 4,
+    "isDurationFlexible": true,
+    "startDate": "2024-03-20T05:46:46.140Z",
+    "numOfPositions": 2,
+    "isRemoteInternship": false,
+    "refInternshipTitle": {
+      "name": "Data Analyst",
+      "type": 1
+    },
+    "refLocation": {
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "country": "India",
+      "createdAt": "2021-09-06T12:09:58.433Z",
+      "updatedAt": "2021-09-06T12:09:58.433Z"
+    },
+    "experienceLevel": 2,
+    "immediate": true,
+    "createdAt": "2024-02-19T05:46:46.295Z",
+    "refAdditionalSkills": [],
+    "applicantCount": 698,
+    "isBookmarked": false,
+    "matchProbability": 10
+  },
+  {
+    "stipendRange": [5000, 5000],
+    "refSkills": [
+      {
+        "name": "Java",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/java-icon.svg"
+      },
+      {
+        "name": "React Native",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/React-icon.svg"
+      },
+      {
+        "name": "React.js",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/React-icon.svg"
+      },
+      {
+        "name": "Javascript",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/JavaScript-icon.svg"
+      },
+      {
+        "name": "HTML",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/html-icon.svg"
+      }
+    ],
+    "refOptionalSkills": [],
+    "jobOffer": [],
+    "applicationQuestions": [],
+    "refUser": {
+      "refCompanyProfile": {
+        "companyName": "Nutri Fusion",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/company/65d1b48f3176f18bf665a6a7/logo.jpg?d=1708242207109",
+        "refLocation": {
+          "city": "Bangalore",
+          "state": "Karnataka",
+          "country": "India",
+          "createdAt": "2021-09-06T12:09:58.433Z",
+          "updatedAt": "2021-09-06T12:09:58.433Z"
+        }
+      }
+    },
+    "internshipStatus": "in-process",
+    "internshipMode": "part-time",
+    "isInternshipModeFlexible": false,
+    "duration": 1,
+    "isDurationFlexible": false,
+    "startDate": "2024-03-19T07:48:58.230Z",
+    "numOfPositions": 1,
+    "isRemoteInternship": true,
+    "refInternshipTitle": {
+      "name": "Frontend Developer",
+      "createdAt": "2021-09-06T07:16:02.072Z",
+      "updatedAt": "2021-09-06T07:16:02.072Z",
+      "type": 1
+    },
+    "experienceLevel": 2,
+    "immediate": true,
+    "createdAt": "2024-02-18T07:48:58.459Z",
+    "refAdditionalSkills": [],
+    "applicantCount": 775,
+    "isBookmarked": false,
+    "matchProbability": 20
+  },
+  {
+    "stipendRange": [7500, 8000],
+    "refSkills": [
+      {
+        "name": "NextJs",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/next-js.svg"
+      },
+      {
+        "name": "AWS",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/amazon_aws-icon.svg"
+      }
+    ],
+    "refOptionalSkills": [],
+    "jobOffer": [3, 4.6],
+    "applicationQuestions": [],
+    "refUser": {
+      "refCompanyProfile": {
+        "companyName": "DiGiLABS",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/company/648864c7c4aa2d7b62f19275/logo.jpg?d=1686660854306",
+        "refLocation": {
+          "city": "Lucknow",
+          "state": "Uttar Pradesh",
+          "country": "India",
+          "createdAt": "2021-09-06T12:09:58.433Z",
+          "updatedAt": "2021-09-06T12:09:58.433Z"
+        }
+      }
+    },
+    "internshipStatus": "in-process",
+    "internshipMode": "full-time",
+    "isInternshipModeFlexible": true,
+    "duration": 3,
+    "isDurationFlexible": false,
+    "startDate": "2024-03-19T06:00:54.700Z",
+    "numOfPositions": 1,
+    "isRemoteInternship": true,
+    "refInternshipTitle": {
+      "name": "Fullstack Developer",
+      "createdAt": "2021-09-06T07:16:02.072Z",
+      "updatedAt": "2021-09-06T07:16:02.072Z",
+      "type": 1
+    },
+    "experienceLevel": 1,
+    "immediate": true,
+    "createdAt": "2024-02-18T06:00:54.684Z",
+    "refAdditionalSkills": [],
+    "applicantCount": 1264,
+    "isBookmarked": false,
+    "matchProbability": 10
+  },
+  {
+    "stipendRange": [15000, 18000],
+    "refSkills": [
+      {
+        "name": "React.js",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/React-icon.svg"
+      },
+      {
+        "name": "NextJs",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/next-js.svg"
+      },
+      {
+        "name": "Tailwind",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/tailwindcss-icon.svg"
+      },
+      {
+        "name": "Figma",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/figma-icon.svg"
+      },
+      {
+        "name": "Redux",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/Redux-icon.png"
+      }
+    ],
+    "refOptionalSkills": [
+      {
+        "name": "React Native",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/React-icon.svg"
+      },
+      {
+        "name": "Javascript",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/JavaScript-icon.svg"
+      },
+      {
+        "name": "Git",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/git-scm-icon.svg"
+      },
+      {
+        "name": "UI/UX",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/UIUX-icon.png"
+      },
+      {
+        "name": "UI Design"
+      }
+    ],
+    "jobOffer": [],
+    "applicationQuestions": [],
+    "refUser": {
+      "refCompanyProfile": {
+        "companyName": "Singularity",
+        "logoUrl": "",
+        "refLocation": {
+          "city": "Bangalore",
+          "state": "Karnataka",
+          "country": "India",
+          "createdAt": "2021-09-06T12:09:58.433Z",
+          "updatedAt": "2021-09-06T12:09:58.433Z"
+        }
+      }
+    },
+    "internshipStatus": "in-process",
+    "internshipMode": "semi-fulltime",
+    "isInternshipModeFlexible": false,
+    "duration": 3,
+    "isDurationFlexible": false,
+    "startDate": "2024-03-19T05:45:06.342Z",
+    "numOfPositions": 2,
+    "isRemoteInternship": true,
+    "refInternshipTitle": {
+      "name": "Frontend Developer",
+      "createdAt": "2021-09-06T07:16:02.072Z",
+      "updatedAt": "2021-09-06T07:16:02.072Z",
+      "type": 1
+    },
+    "experienceLevel": 2,
+    "immediate": true,
+    "createdAt": "2024-02-18T05:45:06.473Z",
+    "refAdditionalSkills": [],
+    "applicantCount": 1203,
+    "isBookmarked": false,
+    "matchProbability": 10
+  },
+  {
+    "stipendRange": [10000, 15000],
+    "refSkills": [
+      {
+        "name": "PHP",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/php-icon.svg"
+      },
+      {
+        "name": "Laravel",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/larvel-icon.svg"
+      },
+      {
+        "name": "MySQL",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/MYSQL-icon.svg"
+      },
+      {
+        "name": "API",
+        "logoUrl": ""
+      }
+    ],
+    "refOptionalSkills": [],
+    "jobOffer": [],
+    "applicationQuestions": [],
+    "refUser": {
+      "refCompanyProfile": {
+        "companyName": "Learnbie",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/company/659a8092ffbf45b66cf4fcbb/logo.jpg?d=1704624378082",
+        "refLocation": {
+          "city": "Bangalore",
+          "state": "Karnataka",
+          "country": "India",
+          "createdAt": "2021-09-06T12:09:58.433Z",
+          "updatedAt": "2021-09-06T12:09:58.433Z"
+        }
+      }
+    },
+    "internshipStatus": "in-process",
+    "internshipMode": "full-time",
+    "isInternshipModeFlexible": false,
+    "duration": 2,
+    "isDurationFlexible": false,
+    "startDate": "2024-03-18T10:23:35.002Z",
+    "numOfPositions": 3,
+    "isRemoteInternship": true,
+    "refInternshipTitle": {
+      "name": "Backend Developer",
+      "createdAt": "2021-09-06T07:16:02.072Z",
+      "updatedAt": "2021-09-06T07:16:02.072Z",
+      "type": 1
+    },
+    "experienceLevel": 3,
+    "immediate": true,
+    "createdAt": "2024-02-17T10:23:28.806Z",
+    "refAdditionalSkills": [],
+    "applicantCount": 692,
+    "isBookmarked": false,
+    "matchProbability": 10
+  },
+  {
+    "stipendRange": [10000, 12000],
+    "refSkills": [
+      {
+        "name": "Javascript",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/JavaScript-icon.svg"
+      },
+      {
+        "name": "HTML",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/html-icon.svg"
+      },
+      {
+        "name": "CSS",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/Css-icon.svg"
+      },
+      {
+        "name": "PHP",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/php-icon.svg"
+      },
+      {
+        "name": "Project management"
+      }
+    ],
+    "refOptionalSkills": [
+      {
+        "name": "jQuery",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/Jquery-icon.svg"
+      },
+      {
+        "name": "Bootstrap",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/Bootstrap-icon.svg"
+      },
+      {
+        "name": "ASP.NET",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/NET-icon.svg"
+      },
+      {
+        "name": "MySQL",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/MYSQL-icon.svg"
+      },
+      {
+        "name": "Liquid",
+        "logoUrl": ""
+      }
+    ],
+    "jobOffer": [3, 4],
+    "applicationQuestions": [],
+    "refUser": {
+      "refCompanyProfile": {
+        "companyName": "Dot Solutions",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/company/64267fc553e01cf58588ec7a/logo.jpg?d=1680244900715",
+        "refLocation": {
+          "city": "Mumbai",
+          "state": "Maharashtra",
+          "country": "India",
+          "createdAt": "2021-09-06T12:09:58.433Z",
+          "updatedAt": "2021-09-06T12:09:58.433Z"
+        }
+      }
+    },
+    "internshipStatus": "in-process",
+    "internshipMode": "full-time",
+    "isInternshipModeFlexible": false,
+    "duration": 6,
+    "isDurationFlexible": true,
+    "startDate": "2024-03-17T14:02:57.299Z",
+    "numOfPositions": 2,
+    "isRemoteInternship": true,
+    "refInternshipTitle": {
+      "name": "Wordpress Developer",
+      "type": 1
+    },
+    "experienceLevel": 2,
+    "immediate": true,
+    "createdAt": "2024-02-16T14:02:57.452Z",
+    "refAdditionalSkills": [],
+    "applicantCount": 865,
+    "isBookmarked": false,
+    "matchProbability": 20
+  },
+  {
+    "stipendRange": [15000, 20000],
+    "refSkills": [
+      {
+        "name": "React Native",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/React-icon.svg"
+      }
+    ],
+    "refOptionalSkills": [
+      {
+        "name": "Communication skills"
+      },
+      {
+        "name": "Teamwork"
+      }
+    ],
+    "jobOffer": [6, 10],
+    "applicationQuestions": [],
+    "refUser": {
+      "refCompanyProfile": {
+        "companyName": "WhatBytes",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/company/65c84a46d870c1135aafe5eb/logo.jpg?d=1707634089259",
+        "refLocation": {
+          "city": "Bangalore",
+          "state": "Karnataka",
+          "country": "India",
+          "createdAt": "2021-09-06T12:09:58.433Z",
+          "updatedAt": "2021-09-06T12:09:58.433Z"
+        }
+      }
+    },
+    "internshipStatus": "in-process",
+    "internshipMode": "full-time",
+    "isInternshipModeFlexible": false,
+    "duration": 3,
+    "isDurationFlexible": false,
+    "startDate": "2024-03-17T13:22:26.297Z",
+    "numOfPositions": 2,
+    "isRemoteInternship": true,
+    "refInternshipTitle": {
+      "name": "Frontend Developer",
+      "createdAt": "2021-09-06T07:16:02.072Z",
+      "updatedAt": "2021-09-06T07:16:02.072Z",
+      "type": 1
+    },
+    "experienceLevel": 2,
+    "immediate": true,
+    "createdAt": "2024-02-16T13:22:26.323Z",
+    "refAdditionalSkills": [],
+    "applicantCount": 1767,
+    "isBookmarked": false,
+    "matchProbability": 10
+  },
+  {
+    "stipendRange": [7000, 10000],
+    "refSkills": [
+      {
+        "name": "C#",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/c%23.svg"
+      },
+      {
+        "name": "Unity 3D",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/unity3d-icon.svg"
+      }
+    ],
+    "refOptionalSkills": [],
+    "jobOffer": [3, 3.5],
+    "applicationQuestions": [
+      {
+        "question": "Why should you be hired for this role?"
+      },
+      {
+        "question": ""
+      }
+    ],
+    "refUser": {
+      "refCompanyProfile": {
+        "companyName": "Ronin Labs",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/company/63f74623e6f84e0547917988/logo.jpg?d=1707811819142",
+        "refLocation": {
+          "city": "Pune",
+          "state": "Maharashtra",
+          "country": "India",
+          "createdAt": "2021-09-06T12:09:58.433Z",
+          "updatedAt": "2021-09-06T12:09:58.433Z"
+        }
+      }
+    },
+    "internshipStatus": "in-process",
+    "internshipMode": "full-time",
+    "isInternshipModeFlexible": false,
+    "duration": 6,
+    "isDurationFlexible": false,
+    "startDate": "2024-03-17T12:07:23.794Z",
+    "numOfPositions": 2,
+    "isRemoteInternship": false,
+    "refInternshipTitle": {
+      "name": "Game Developer",
+      "createdAt": "2021-09-06T07:16:02.072Z",
+      "updatedAt": "2021-09-06T07:16:02.072Z",
+      "type": 1
+    },
+    "refLocation": {
+      "city": "Pune",
+      "state": "Maharashtra",
+      "country": "India",
+      "createdAt": "2021-09-06T12:09:58.433Z",
+      "updatedAt": "2021-09-06T12:09:58.433Z"
+    },
+    "experienceLevel": 1,
+    "immediate": true,
+    "createdAt": "2024-02-16T11:00:03.155Z",
+    "refAdditionalSkills": [],
+    "applicantCount": 339,
+    "isBookmarked": false,
+    "matchProbability": 10
+  },
+  {
+    "stipendRange": [50000, 55000],
+    "refSkills": [
+      {
+        "name": "Deep Learning",
+        "logoUrl": ""
+      },
+      {
+        "name": "CI/CD",
+        "logoUrl": "https://production-cuvette.s3.amazonaws.com/skillsIcon/travis-ci-icon.svg"
+      },
+      {
+        "name": "DevOps",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/DevOPs-icon.webp"
+      },
+      {
+        "name": "Product Management",
+        "logoUrl": ""
+      },
+      {
+        "name": "Product lifecycle management (PLM)",
+        "logoUrl": ""
+      }
+    ],
+    "refOptionalSkills": [
+      {
+        "name": "Python",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/python-icon.svg"
+      },
+      {
+        "name": "Automation testing",
+        "logoUrl": ""
+      },
+      {
+        "name": "Product Design"
+      },
+      {
+        "name": "Product Planning"
+      }
+    ],
+    "jobOffer": [],
+    "applicationQuestions": [
+      {
+        "question": "Why should you be hired for this role?"
+      },
+      {
+        "question": ""
+      }
+    ],
+    "refUser": {
+      "refCompanyProfile": {
+        "companyName": "Scalers.AI",
+        "logoUrl": "",
+        "refLocation": {
+          "city": "",
+          "state": "",
+          "country": "United States Of America (USA)"
+        }
+      }
+    },
+    "internshipStatus": "in-process",
+    "internshipMode": "full-time",
+    "isInternshipModeFlexible": false,
+    "duration": 3,
+    "isDurationFlexible": false,
+    "startDate": "2024-03-20T05:54:39.610Z",
+    "numOfPositions": 1,
+    "isRemoteInternship": true,
+    "refInternshipTitle": {
+      "name": "Technical Product Manager",
+      "createdAt": "2021-09-06T07:16:02.072Z",
+      "updatedAt": "2021-09-06T07:16:02.072Z",
+      "type": 1
+    },
+    "refLocation": {
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "country": "India",
+      "createdAt": "2021-09-06T12:09:58.433Z",
+      "updatedAt": "2021-09-06T12:09:58.433Z"
+    },
+    "experienceLevel": 1,
+    "immediate": true,
+    "createdAt": "2024-02-16T09:07:39.549Z",
+    "refAdditionalSkills": [],
+    "applicantCount": 757,
+    "isBookmarked": false,
+    "matchProbability": 10
+  },
+  {
+    "stipendRange": [20000, 25000],
+    "refSkills": [
+      {
+        "name": "Figma",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/figma-icon.svg"
+      },
+      {
+        "name": "Adobe Creative Cloud"
+      }
+    ],
+    "refOptionalSkills": [],
+    "jobOffer": [],
+    "applicationQuestions": [
+      {
+        "question": "Why should you be hired for this role?"
+      },
+      {
+        "question": ""
+      }
+    ],
+    "refUser": {
+      "refCompanyProfile": {
+        "companyName": "Airtribe",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/company/625d4633edd7b61bff884966/logo.jpg?d=1684482751770",
+        "refLocation": {
+          "city": "Bangalore",
+          "state": "Karnataka",
+          "country": "India",
+          "createdAt": "2021-09-06T12:09:58.433Z",
+          "updatedAt": "2021-09-06T12:09:58.433Z"
+        }
+      }
+    },
+    "internshipStatus": "in-process",
+    "internshipMode": "full-time",
+    "isInternshipModeFlexible": false,
+    "duration": 6,
+    "isDurationFlexible": false,
+    "startDate": "2024-03-17T14:18:33.343Z",
+    "numOfPositions": 1,
+    "isRemoteInternship": false,
+    "refInternshipTitle": {
+      "name": "UI/UX Designer",
+      "type": 1
+    },
+    "refLocation": {
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "country": "India",
+      "createdAt": "2021-09-06T12:09:58.433Z",
+      "updatedAt": "2021-09-06T12:09:58.433Z"
+    },
+    "experienceLevel": 3,
+    "immediate": true,
+    "createdAt": "2024-02-16T07:20:14.035Z",
+    "refAdditionalSkills": [],
+    "applicantCount": 586,
+    "isBookmarked": false,
+    "matchProbability": 10
+  },
+  {
+    "stipendRange": [6000, 11000],
+    "refSkills": [
+      {
+        "name": "Swift",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/Swift-icon.svg"
+      },
+      {
+        "name": "iOS",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/iOS-icon.png"
+      }
+    ],
+    "refOptionalSkills": [],
+    "jobOffer": [],
+    "applicationQuestions": [],
+    "refUser": {
+      "refCompanyProfile": {
+        "companyName": "IELTS Proficiency ",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/company/6436410e073da576d9c0ccf6/logo.jpg?d=1692356275131",
+        "refLocation": {
+          "city": "Amritsar",
+          "state": "Punjab",
+          "country": "India",
+          "createdAt": "2021-09-06T12:09:58.433Z",
+          "updatedAt": "2021-09-06T12:09:58.433Z"
+        }
+      }
+    },
+    "internshipStatus": "in-process",
+    "internshipMode": "part-time",
+    "isInternshipModeFlexible": false,
+    "duration": 2,
+    "isDurationFlexible": false,
+    "startDate": "2024-03-16T17:51:13.584Z",
+    "numOfPositions": 2,
+    "isRemoteInternship": true,
+    "refInternshipTitle": {
+      "name": "Technical Operations",
+      "createdAt": "2021-09-06T07:16:02.072Z",
+      "updatedAt": "2021-09-06T07:16:02.072Z",
+      "type": 1
+    },
+    "experienceLevel": 1,
+    "immediate": true,
+    "createdAt": "2024-02-15T17:51:14.097Z",
+    "refAdditionalSkills": [],
+    "applicantCount": 585,
+    "isBookmarked": false,
+    "matchProbability": 10
+  },
+  {
+    "stipendRange": [40000, 40000],
+    "refSkills": [
+      {
+        "name": "Python",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/python-icon.svg"
+      },
+      {
+        "name": "Deep Learning",
+        "logoUrl": ""
+      },
+      {
+        "name": "Linux",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/linux-icon.svg"
+      },
+      {
+        "name": "Docker",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/docker-icon.svg"
+      },
+      {
+        "name": "Git",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/git-scm-icon.svg"
+      }
+    ],
+    "refOptionalSkills": [
+      {
+        "name": "Automation testing",
+        "logoUrl": ""
+      }
+    ],
+    "jobOffer": [],
+    "applicationQuestions": [
+      {
+        "question": "Why should you be hired for this role?"
+      },
+      {
+        "question": ""
+      }
+    ],
+    "refUser": {
+      "refCompanyProfile": {
+        "companyName": "Scalers.AI",
+        "logoUrl": "",
+        "refLocation": {
+          "city": "",
+          "state": "",
+          "country": "United States Of America (USA)"
+        }
+      }
+    },
+    "internshipStatus": "in-process",
+    "internshipMode": "full-time",
+    "isInternshipModeFlexible": false,
+    "duration": 3,
+    "isDurationFlexible": false,
+    "startDate": "2024-03-20T05:55:34.143Z",
+    "numOfPositions": 4,
+    "isRemoteInternship": true,
+    "refInternshipTitle": {
+      "name": "Software Developer",
+      "createdAt": "2021-09-06T07:16:02.072Z",
+      "updatedAt": "2021-09-06T07:16:02.072Z",
+      "type": 1
+    },
+    "refLocation": {
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "country": "India",
+      "createdAt": "2021-09-06T12:09:58.433Z",
+      "updatedAt": "2021-09-06T12:09:58.433Z"
+    },
+    "experienceLevel": 2,
+    "immediate": true,
+    "createdAt": "2024-02-15T13:45:07.342Z",
+    "refAdditionalSkills": [],
+    "applicantCount": 3340,
+    "isBookmarked": false,
+    "matchProbability": 10
+  },
+  {
+    "stipendRange": [5000, 10000],
+    "refSkills": [
+      {
+        "name": "React.js",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/React-icon.svg"
+      },
+      {
+        "name": "NodeJs",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/Node.js-icon.svg"
+      }
+    ],
+    "refOptionalSkills": [
+      {
+        "name": "Javascript",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/JavaScript-icon.svg"
+      },
+      {
+        "name": "Python",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/python-icon.svg"
+      }
+    ],
+    "jobOffer": [],
+    "applicationQuestions": [],
+    "refUser": {
+      "refCompanyProfile": {
+        "companyName": "Installco WIFY Technology",
+        "logoUrl": "",
+        "refLocation": {
+          "city": "Mumbai",
+          "state": "Maharashtra",
+          "country": "India",
+          "createdAt": "2021-09-06T12:09:58.433Z",
+          "updatedAt": "2021-09-06T12:09:58.433Z"
+        }
+      }
+    },
+    "internshipStatus": "in-process",
+    "internshipMode": "full-time",
+    "isInternshipModeFlexible": false,
+    "duration": 3,
+    "isDurationFlexible": false,
+    "startDate": "2024-03-16T12:01:28.358Z",
+    "numOfPositions": 2,
+    "isRemoteInternship": true,
+    "refInternshipTitle": {
+      "name": "Software Developer",
+      "createdAt": "2021-09-06T07:16:02.072Z",
+      "updatedAt": "2021-09-06T07:16:02.072Z",
+      "type": 1
+    },
+    "refLocation": {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "createdAt": "2021-09-06T12:09:58.433Z",
+      "updatedAt": "2021-09-06T12:09:58.433Z"
+    },
+    "experienceLevel": 1,
+    "immediate": true,
+    "createdAt": "2024-02-15T12:01:26.415Z",
+    "refAdditionalSkills": [],
+    "applicantCount": 1309,
+    "isBookmarked": false,
+    "matchProbability": 45
+  },
+  {
+    "stipendRange": [5000, 6000],
+    "refSkills": [
+      {
+        "name": "Social Media Marketing"
+      }
+    ],
+    "refOptionalSkills": [
+      {
+        "name": "Social Media analysis"
+      }
+    ],
+    "jobOffer": [],
+    "applicationQuestions": [],
+    "refUser": {
+      "refCompanyProfile": {
+        "companyName": "Rushan Corporation",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/company/6446c5d307414f20c61cce3a/logo.jpg?d=1706243313319",
+        "refLocation": {
+          "city": "Ahmedabad",
+          "state": "Gujarat",
+          "country": "India",
+          "createdAt": "2021-09-06T12:09:58.433Z",
+          "updatedAt": "2021-09-06T12:09:58.433Z"
+        }
+      }
+    },
+    "internshipStatus": "in-process",
+    "internshipMode": "semi-fulltime",
+    "isInternshipModeFlexible": false,
+    "duration": 3,
+    "isDurationFlexible": false,
+    "startDate": "2024-03-16T10:40:45.221Z",
+    "numOfPositions": 1,
+    "isRemoteInternship": true,
+    "refInternshipTitle": {
+      "name": "UI/UX Designer",
+      "type": 1
+    },
+    "experienceLevel": 2,
+    "immediate": true,
+    "createdAt": "2024-02-15T10:40:45.348Z",
+    "refAdditionalSkills": [],
+    "applicantCount": 485,
+    "isBookmarked": false,
+    "matchProbability": 10
+  },
+  {
+    "stipendRange": [20000, 25000],
+    "refSkills": [
+      {
+        "name": "Figma",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/figma-icon.svg"
+      },
+      {
+        "name": "UI/UX",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/UIUX-icon.png"
+      },
+      {
+        "name": "Product Design"
+      },
+      {
+        "name": "UI Design"
+      },
+      {
+        "name": "UX Design"
+      }
+    ],
+    "refOptionalSkills": [
+      {
+        "name": "Product Management",
+        "logoUrl": ""
+      },
+      {
+        "name": "UX research"
+      }
+    ],
+    "jobOffer": [5, 7],
+    "applicationQuestions": [],
+    "refUser": {
+      "refCompanyProfile": {
+        "companyName": "ZuPay",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/company/61812a1893e4a3a859e149e0/logo.jpg?d=1693567753460",
+        "refLocation": {
+          "city": "Bangalore",
+          "state": "Karnataka",
+          "country": "India",
+          "createdAt": "2021-09-06T12:09:58.433Z",
+          "updatedAt": "2021-09-06T12:09:58.433Z"
+        }
+      }
+    },
+    "internshipStatus": "in-process",
+    "internshipMode": "full-time",
+    "isInternshipModeFlexible": true,
+    "duration": 6,
+    "isDurationFlexible": true,
+    "startDate": "2024-03-16T10:39:45.827Z",
+    "numOfPositions": 2,
+    "isRemoteInternship": true,
+    "refInternshipTitle": {
+      "name": "UI/UX Designer",
+      "type": 1
+    },
+    "experienceLevel": 3,
+    "immediate": true,
+    "createdAt": "2024-02-15T10:39:46.366Z",
+    "refAdditionalSkills": [],
+    "applicantCount": 774,
+    "isBookmarked": false,
+    "matchProbability": 10
+  },
+  {
+    "stipendRange": [5000, 5000],
+    "refSkills": [
+      {
+        "name": "React.js",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/React-icon.svg"
+      },
+      {
+        "name": "NextJs",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/next-js.svg"
+      },
+      {
+        "name": "Javascript",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/JavaScript-icon.svg"
+      },
+      {
+        "name": "Tailwind",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/tailwindcss-icon.svg"
+      },
+      {
+        "name": "NodeJs",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/Node.js-icon.svg"
+      }
+    ],
+    "refOptionalSkills": [
+      {
+        "name": "Typescript",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/Typescript-icon.svg"
+      },
+      {
+        "name": "MongoDB",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/mongodb-icon.svg"
+      },
+      {
+        "name": "AWS",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/amazon_aws-icon.svg"
+      }
+    ],
+    "jobOffer": [],
+    "applicationQuestions": [],
+    "refUser": {
+      "refCompanyProfile": {
+        "companyName": "Web3Scope",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/company/64f7f4454593e880e870010a/logo.jpg?d=1693974512050",
+        "refLocation": {
+          "city": "",
+          "state": "",
+          "country": "India"
+        }
+      }
+    },
+    "internshipStatus": "in-process",
+    "internshipMode": "full-time",
+    "isInternshipModeFlexible": false,
+    "duration": 2,
+    "isDurationFlexible": false,
+    "startDate": "2024-03-16T09:57:54.680Z",
+    "numOfPositions": 2,
+    "isRemoteInternship": true,
+    "refInternshipTitle": {
+      "name": "Fullstack Developer",
+      "createdAt": "2021-09-06T07:16:02.072Z",
+      "updatedAt": "2021-09-06T07:16:02.072Z",
+      "type": 1
+    },
+    "experienceLevel": 3,
+    "immediate": true,
+    "createdAt": "2024-02-15T09:57:45.739Z",
+    "refAdditionalSkills": [],
+    "applicantCount": 1143,
+    "isBookmarked": false,
+    "matchProbability": 30
+  },
+  {
+    "stipendRange": [7000, 7000],
+    "refSkills": [
+      {
+        "name": "Search Engine Optimization (SEO)"
+      },
+      {
+        "name": "Strong Communication Skills - Written & Verbal"
+      },
+      {
+        "name": "Content Writing",
+        "logoUrl": ""
+      }
+    ],
+    "refOptionalSkills": [],
+    "jobOffer": [],
+    "applicationQuestions": [],
+    "refUser": {
+      "refCompanyProfile": {
+        "companyName": "Emitrr",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/company/6412aef23dad01b688b1c734/logo.jpg?d=1678947352801",
+        "refLocation": {
+          "city": "",
+          "state": "",
+          "country": "United States Of America (USA)"
+        }
+      }
+    },
+    "internshipStatus": "in-process",
+    "internshipMode": "part-time",
+    "isInternshipModeFlexible": false,
+    "duration": 6,
+    "isDurationFlexible": true,
+    "startDate": "2024-03-15T09:54:10.763Z",
+    "numOfPositions": 2,
+    "isRemoteInternship": true,
+    "refInternshipTitle": {
+      "name": "Technical Content Writer",
+      "type": 1
+    },
+    "experienceLevel": 1,
+    "immediate": true,
+    "createdAt": "2024-02-14T09:54:11.791Z",
+    "refAdditionalSkills": [],
+    "applicantCount": 525,
+    "isBookmarked": false,
+    "matchProbability": 10
+  },
+  {
+    "stipendRange": [15000, 20000],
+    "refSkills": [
+      {
+        "name": "PHP",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/php-icon.svg"
+      },
+      {
+        "name": "Wordpress",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/WordPress-icon.png"
+      }
+    ],
+    "refOptionalSkills": [],
+    "jobOffer": [4, 5],
+    "applicationQuestions": [],
+    "refUser": {
+      "refCompanyProfile": {
+        "companyName": "ful.io",
+        "logoUrl": "",
+        "refLocation": {
+          "city": "Bangalore",
+          "state": "Karnataka",
+          "country": "India",
+          "createdAt": "2021-09-06T12:09:58.433Z",
+          "updatedAt": "2021-09-06T12:09:58.433Z"
+        }
+      }
+    },
+    "internshipStatus": "in-process",
+    "internshipMode": "full-time",
+    "isInternshipModeFlexible": false,
+    "duration": 6,
+    "isDurationFlexible": false,
+    "startDate": "2024-03-21T09:03:24.473Z",
+    "numOfPositions": 1,
+    "isRemoteInternship": false,
+    "refInternshipTitle": {
+      "name": "Wordpress Developer",
+      "type": 1
+    },
+    "refLocation": {
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "country": "India",
+      "createdAt": "2021-09-06T12:09:58.433Z",
+      "updatedAt": "2021-09-06T12:09:58.433Z"
+    },
+    "experienceLevel": 1,
+    "immediate": true,
+    "createdAt": "2024-02-20T09:03:24.660Z",
+    "refAdditionalSkills": [],
+    "applicantCount": 53,
+    "isBookmarked": false,
+    "matchProbability": 10
+  },
+  {
+    "stipendRange": [6000, 8000],
+    "refSkills": [
+      {
+        "name": "Django",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/django.svg"
+      },
+      {
+        "name": "Python",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/python-icon.svg"
+      },
+      {
+        "name": "SQL",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/sqlite-icon.svg"
+      },
+      {
+        "name": "Redis",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/redis-icon.svg"
+      },
+      {
+        "name": "REST",
+        "logoUrl": "https://production-cuvette.s3.amazonaws.com/skillsIcon/rest-api.svg"
+      }
+    ],
+    "refOptionalSkills": [
+      {
+        "name": "AWS",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/amazon_aws-icon.svg"
+      },
+      {
+        "name": "Kubernetes",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/Kubernetes-icon.png"
+      }
+    ],
+    "jobOffer": [],
+    "applicationQuestions": [],
+    "refUser": {
+      "refCompanyProfile": {
+        "companyName": "C4Scale",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/company/61f0d48a596f0a35ef5fa51b/logo.jpg?d=1643173564378",
+        "refLocation": {
+          "city": "Chennai",
+          "state": "Tamil Nadu",
+          "country": "India",
+          "createdAt": "2021-09-06T12:09:58.433Z",
+          "updatedAt": "2021-09-06T12:09:58.433Z"
+        }
+      }
+    },
+    "internshipStatus": "in-process",
+    "internshipMode": "full-time",
+    "isInternshipModeFlexible": true,
+    "duration": 2,
+    "isDurationFlexible": false,
+    "startDate": "2024-03-21T08:10:14.336Z",
+    "numOfPositions": 1,
+    "isRemoteInternship": true,
+    "refInternshipTitle": {
+      "name": "Backend Developer",
+      "createdAt": "2021-09-06T07:16:02.072Z",
+      "updatedAt": "2021-09-06T07:16:02.072Z",
+      "type": 1
+    },
+    "experienceLevel": 2,
+    "immediate": true,
+    "createdAt": "2024-02-20T08:10:14.666Z",
+    "refAdditionalSkills": [],
+    "applicantCount": 101,
+    "isBookmarked": false,
+    "matchProbability": 10
+  },
+  {
+    "stipendRange": [20000, 25000],
+    "refSkills": [
+      {
+        "name": "Python",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/python-icon.svg"
+      }
+    ],
+    "refOptionalSkills": [],
+    "jobOffer": [],
+    "applicationQuestions": [],
+    "refUser": {
+      "refCompanyProfile": {
+        "companyName": "Dwata Tech Pvt. Ltd",
+        "logoUrl": "",
+        "refLocation": {
+          "city": "Bangalore",
+          "state": "Karnataka",
+          "country": "India",
+          "createdAt": "2021-09-06T12:09:58.433Z",
+          "updatedAt": "2021-09-06T12:09:58.433Z"
+        }
+      }
+    },
+    "internshipStatus": "in-process",
+    "internshipMode": "full-time",
+    "isInternshipModeFlexible": false,
+    "duration": 6,
+    "isDurationFlexible": false,
+    "startDate": "2024-03-20T10:41:30.128Z",
+    "numOfPositions": 1,
+    "isRemoteInternship": true,
+    "refInternshipTitle": {
+      "name": "Data Engineer",
+      "createdAt": "2021-09-06T07:16:02.072Z",
+      "updatedAt": "2021-09-06T07:16:02.072Z",
+      "type": 1
+    },
+    "experienceLevel": 1,
+    "immediate": true,
+    "createdAt": "2024-02-19T10:41:29.884Z",
+    "refAdditionalSkills": [],
+    "applicantCount": 1549,
+    "isBookmarked": false,
+    "matchProbability": 10
+  },
+  {
+    "stipendRange": [5000, 30000],
+    "refSkills": [
+      {
+        "name": "React.js",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/React-icon.svg"
+      },
+      {
+        "name": "NextJs",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/next-js.svg"
+      },
+      {
+        "name": "Tailwind",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/tailwindcss-icon.svg"
+      },
+      {
+        "name": "REST",
+        "logoUrl": "https://production-cuvette.s3.amazonaws.com/skillsIcon/rest-api.svg"
+      },
+      {
+        "name": "API",
+        "logoUrl": ""
+      }
+    ],
+    "refOptionalSkills": [],
+    "jobOffer": [],
+    "applicationQuestions": [],
+    "refUser": {
+      "refCompanyProfile": {
+        "companyName": "D2Clytics",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/company/65d2ffa6221bdaae730abeb2/logo.jpg?d=1708326924721",
+        "refLocation": {
+          "city": "",
+          "state": "",
+          "country": "United States Of America (USA)"
+        }
+      }
+    },
+    "internshipStatus": "in-process",
+    "internshipMode": "full-time",
+    "isInternshipModeFlexible": true,
+    "duration": 3,
+    "isDurationFlexible": false,
+    "startDate": "2024-03-20T07:25:34.308Z",
+    "numOfPositions": 2,
+    "isRemoteInternship": true,
+    "refInternshipTitle": {
+      "name": "Frontend Developer",
+      "createdAt": "2021-09-06T07:16:02.072Z",
+      "updatedAt": "2021-09-06T07:16:02.072Z",
+      "type": 1
+    },
+    "refLocation": {
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "country": "India",
+      "createdAt": "2021-09-06T12:09:58.433Z",
+      "updatedAt": "2021-09-06T12:09:58.433Z"
+    },
+    "experienceLevel": 3,
+    "immediate": true,
+    "createdAt": "2024-02-19T07:25:33.767Z",
+    "refAdditionalSkills": [],
+    "applicantCount": 1326,
+    "isBookmarked": false,
+    "matchProbability": 10
+  },
+  {
+    "stipendRange": [12000, 15000],
+    "refSkills": [
+      {
+        "name": "Adobe Creative Cloud"
+      },
+      {
+        "name": "Illustrator"
+      },
+      {
+        "name": "InDesign"
+      },
+      {
+        "name": "Photoshop"
+      },
+      {
+        "name": "Typography"
+      }
+    ],
+    "refOptionalSkills": [
+      {
+        "name": "Communication skills"
+      }
+    ],
+    "jobOffer": [],
+    "applicationQuestions": [],
+    "refUser": {
+      "refCompanyProfile": {
+        "companyName": "Locnapps Media Private Limited",
+        "logoUrl": "",
+        "refLocation": {
+          "city": "Gurugram",
+          "state": "Haryana",
+          "country": "India",
+          "createdAt": "2021-09-06T12:09:58.433Z",
+          "updatedAt": "2021-09-06T12:09:58.433Z"
+        }
+      }
+    },
+    "internshipStatus": "in-process",
+    "internshipMode": "full-time",
+    "isInternshipModeFlexible": true,
+    "duration": 3,
+    "isDurationFlexible": false,
+    "startDate": "2024-03-20T06:51:58.144Z",
+    "numOfPositions": 2,
+    "isRemoteInternship": false,
+    "refInternshipTitle": {
+      "name": "UI/UX Designer",
+      "type": 1
+    },
+    "refLocation": {
+      "city": "Gurugram",
+      "state": "Haryana",
+      "country": "India",
+      "createdAt": "2021-09-06T12:09:58.433Z",
+      "updatedAt": "2021-09-06T12:09:58.433Z"
+    },
+    "experienceLevel": 1,
+    "immediate": true,
+    "createdAt": "2024-02-19T06:51:58.419Z",
+    "refAdditionalSkills": [],
+    "applicantCount": 284,
+    "isBookmarked": false,
+    "matchProbability": 10
+  },
+  {
+    "stipendRange": [10000, 12000],
+    "refSkills": [
+      {
+        "name": "Python",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/python-icon.svg"
+      },
+      {
+        "name": "NumPy",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/NumPy-icon.svg"
+      },
+      {
+        "name": "Data Analysis"
+      },
+      {
+        "name": "Data Management"
+      },
+      {
+        "name": "Financial Analysis"
+      }
+    ],
+    "refOptionalSkills": [
+      {
+        "name": "SQL",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/sqlite-icon.svg"
+      },
+      {
+        "name": "Excel"
+      }
+    ],
+    "jobOffer": [3, 4],
+    "applicationQuestions": [],
+    "refUser": {
+      "refCompanyProfile": {
+        "companyName": "Ethan AI",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/company/61e5238fcde0e127faf36d4b/logo.jpg?d=1642406993259",
+        "refLocation": {
+          "city": "",
+          "state": "",
+          "country": "Singapore"
+        }
+      }
+    },
+    "internshipStatus": "in-process",
+    "internshipMode": "full-time",
+    "isInternshipModeFlexible": true,
+    "duration": 4,
+    "isDurationFlexible": true,
+    "startDate": "2024-03-20T05:46:46.140Z",
+    "numOfPositions": 2,
+    "isRemoteInternship": false,
+    "refInternshipTitle": {
+      "name": "Data Analyst",
+      "type": 1
+    },
+    "refLocation": {
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "country": "India",
+      "createdAt": "2021-09-06T12:09:58.433Z",
+      "updatedAt": "2021-09-06T12:09:58.433Z"
+    },
+    "experienceLevel": 2,
+    "immediate": true,
+    "createdAt": "2024-02-19T05:46:46.295Z",
+    "refAdditionalSkills": [],
+    "applicantCount": 1725,
+    "isBookmarked": false,
+    "matchProbability": 10
+  },
+  {
+    "stipendRange": [5000, 5000],
+    "refSkills": [
+      {
+        "name": "Java",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/java-icon.svg"
+      },
+      {
+        "name": "React Native",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/React-icon.svg"
+      },
+      {
+        "name": "React.js",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/React-icon.svg"
+      },
+      {
+        "name": "Javascript",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/JavaScript-icon.svg"
+      },
+      {
+        "name": "HTML",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/html-icon.svg"
+      }
+    ],
+    "refOptionalSkills": [],
+    "jobOffer": [],
+    "applicationQuestions": [],
+    "refUser": {
+      "refCompanyProfile": {
+        "companyName": "Nutri Fusion",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/company/65d1b48f3176f18bf665a6a7/logo.jpg?d=1708242207109",
+        "refLocation": {
+          "city": "Bangalore",
+          "state": "Karnataka",
+          "country": "India",
+          "createdAt": "2021-09-06T12:09:58.433Z",
+          "updatedAt": "2021-09-06T12:09:58.433Z"
+        }
+      }
+    },
+    "internshipStatus": "in-process",
+    "internshipMode": "part-time",
+    "isInternshipModeFlexible": false,
+    "duration": 1,
+    "isDurationFlexible": false,
+    "startDate": "2024-03-19T07:48:58.230Z",
+    "numOfPositions": 1,
+    "isRemoteInternship": true,
+    "refInternshipTitle": {
+      "name": "Frontend Developer",
+      "createdAt": "2021-09-06T07:16:02.072Z",
+      "updatedAt": "2021-09-06T07:16:02.072Z",
+      "type": 1
+    },
+    "experienceLevel": 2,
+    "immediate": true,
+    "createdAt": "2024-02-18T07:48:58.459Z",
+    "refAdditionalSkills": [],
+    "applicantCount": 1190,
+    "isBookmarked": false,
+    "matchProbability": 20
+  },
+  {
+    "stipendRange": [7500, 8000],
+    "refSkills": [
+      {
+        "name": "NextJs",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/next-js.svg"
+      },
+      {
+        "name": "AWS",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/amazon_aws-icon.svg"
+      }
+    ],
+    "refOptionalSkills": [],
+    "jobOffer": [3, 4.6],
+    "applicationQuestions": [],
+    "refUser": {
+      "refCompanyProfile": {
+        "companyName": "DiGiLABS",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/company/648864c7c4aa2d7b62f19275/logo.jpg?d=1686660854306",
+        "refLocation": {
+          "city": "Lucknow",
+          "state": "Uttar Pradesh",
+          "country": "India",
+          "createdAt": "2021-09-06T12:09:58.433Z",
+          "updatedAt": "2021-09-06T12:09:58.433Z"
+        }
+      }
+    },
+    "internshipStatus": "in-process",
+    "internshipMode": "full-time",
+    "isInternshipModeFlexible": true,
+    "duration": 3,
+    "isDurationFlexible": false,
+    "startDate": "2024-03-19T06:00:54.700Z",
+    "numOfPositions": 1,
+    "isRemoteInternship": true,
+    "refInternshipTitle": {
+      "name": "Fullstack Developer",
+      "createdAt": "2021-09-06T07:16:02.072Z",
+      "updatedAt": "2021-09-06T07:16:02.072Z",
+      "type": 1
+    },
+    "experienceLevel": 1,
+    "immediate": true,
+    "createdAt": "2024-02-18T06:00:54.684Z",
+    "refAdditionalSkills": [],
+    "applicantCount": 1581,
+    "isBookmarked": false,
+    "matchProbability": 10
+  },
+  {
+    "stipendRange": [15000, 18000],
+    "refSkills": [
+      {
+        "name": "React.js",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/React-icon.svg"
+      },
+      {
+        "name": "NextJs",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/next-js.svg"
+      },
+      {
+        "name": "Tailwind",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/tailwindcss-icon.svg"
+      },
+      {
+        "name": "Figma",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/figma-icon.svg"
+      },
+      {
+        "name": "Redux",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/Redux-icon.png"
+      }
+    ],
+    "refOptionalSkills": [
+      {
+        "name": "React Native",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/React-icon.svg"
+      },
+      {
+        "name": "Javascript",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/JavaScript-icon.svg"
+      },
+      {
+        "name": "Git",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/git-scm-icon.svg"
+      },
+      {
+        "name": "UI/UX",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/UIUX-icon.png"
+      },
+      {
+        "name": "UI Design"
+      }
+    ],
+    "jobOffer": [],
+    "applicationQuestions": [],
+    "refUser": {
+      "refCompanyProfile": {
+        "companyName": "Singularity",
+        "logoUrl": "",
+        "refLocation": {
+          "city": "Bangalore",
+          "state": "Karnataka",
+          "country": "India",
+          "createdAt": "2021-09-06T12:09:58.433Z",
+          "updatedAt": "2021-09-06T12:09:58.433Z"
+        }
+      }
+    },
+    "internshipStatus": "in-process",
+    "internshipMode": "semi-fulltime",
+    "isInternshipModeFlexible": false,
+    "duration": 3,
+    "isDurationFlexible": false,
+    "startDate": "2024-03-19T05:45:06.342Z",
+    "numOfPositions": 2,
+    "isRemoteInternship": true,
+    "refInternshipTitle": {
+      "name": "Frontend Developer",
+      "createdAt": "2021-09-06T07:16:02.072Z",
+      "updatedAt": "2021-09-06T07:16:02.072Z",
+      "type": 1
+    },
+    "experienceLevel": 2,
+    "immediate": true,
+    "createdAt": "2024-02-18T05:45:06.473Z",
+    "refAdditionalSkills": [],
+    "applicantCount": 1529,
+    "isBookmarked": false,
+    "matchProbability": 10
+  },
+  {
+    "stipendRange": [10000, 15000],
+    "refSkills": [
+      {
+        "name": "PHP",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/php-icon.svg"
+      },
+      {
+        "name": "Laravel",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/larvel-icon.svg"
+      },
+      {
+        "name": "MySQL",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/MYSQL-icon.svg"
+      },
+      {
+        "name": "API",
+        "logoUrl": ""
+      }
+    ],
+    "refOptionalSkills": [],
+    "jobOffer": [],
+    "applicationQuestions": [],
+    "refUser": {
+      "refCompanyProfile": {
+        "companyName": "Learnbie",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/company/659a8092ffbf45b66cf4fcbb/logo.jpg?d=1704624378082",
+        "refLocation": {
+          "city": "Bangalore",
+          "state": "Karnataka",
+          "country": "India",
+          "createdAt": "2021-09-06T12:09:58.433Z",
+          "updatedAt": "2021-09-06T12:09:58.433Z"
+        }
+      }
+    },
+    "internshipStatus": "in-process",
+    "internshipMode": "full-time",
+    "isInternshipModeFlexible": false,
+    "duration": 2,
+    "isDurationFlexible": false,
+    "startDate": "2024-03-18T10:23:35.002Z",
+    "numOfPositions": 3,
+    "isRemoteInternship": true,
+    "refInternshipTitle": {
+      "name": "Backend Developer",
+      "createdAt": "2021-09-06T07:16:02.072Z",
+      "updatedAt": "2021-09-06T07:16:02.072Z",
+      "type": 1
+    },
+    "experienceLevel": 3,
+    "immediate": true,
+    "createdAt": "2024-02-17T10:23:28.806Z",
+    "refAdditionalSkills": [],
+    "applicantCount": 894,
+    "isBookmarked": false,
+    "matchProbability": 10
+  },
+  {
+    "stipendRange": [10000, 12000],
+    "refSkills": [
+      {
+        "name": "Javascript",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/JavaScript-icon.svg"
+      },
+      {
+        "name": "HTML",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/html-icon.svg"
+      },
+      {
+        "name": "CSS",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/Css-icon.svg"
+      },
+      {
+        "name": "PHP",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/php-icon.svg"
+      },
+      {
+        "name": "Project management"
+      }
+    ],
+    "refOptionalSkills": [
+      {
+        "name": "jQuery",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/Jquery-icon.svg"
+      },
+      {
+        "name": "Bootstrap",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/Bootstrap-icon.svg"
+      },
+      {
+        "name": "ASP.NET",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/NET-icon.svg"
+      },
+      {
+        "name": "MySQL",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/MYSQL-icon.svg"
+      },
+      {
+        "name": "Liquid",
+        "logoUrl": ""
+      }
+    ],
+    "jobOffer": [3, 4],
+    "applicationQuestions": [],
+    "refUser": {
+      "refCompanyProfile": {
+        "companyName": "Dot Solutions",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/company/64267fc553e01cf58588ec7a/logo.jpg?d=1680244900715",
+        "refLocation": {
+          "city": "Mumbai",
+          "state": "Maharashtra",
+          "country": "India",
+          "createdAt": "2021-09-06T12:09:58.433Z",
+          "updatedAt": "2021-09-06T12:09:58.433Z"
+        }
+      }
+    },
+    "internshipStatus": "in-process",
+    "internshipMode": "full-time",
+    "isInternshipModeFlexible": false,
+    "duration": 6,
+    "isDurationFlexible": true,
+    "startDate": "2024-03-17T14:02:57.299Z",
+    "numOfPositions": 2,
+    "isRemoteInternship": true,
+    "refInternshipTitle": {
+      "name": "Wordpress Developer",
+      "type": 1
+    },
+    "experienceLevel": 2,
+    "immediate": true,
+    "createdAt": "2024-02-16T14:02:57.452Z",
+    "refAdditionalSkills": [],
+    "applicantCount": 1017,
+    "isBookmarked": false,
+    "matchProbability": 20
+  },
+  {
+    "stipendRange": [15000, 20000],
+    "refSkills": [
+      {
+        "name": "React Native",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/React-icon.svg"
+      }
+    ],
+    "refOptionalSkills": [
+      {
+        "name": "Communication skills"
+      },
+      {
+        "name": "Teamwork"
+      }
+    ],
+    "jobOffer": [6, 10],
+    "applicationQuestions": [],
+    "refUser": {
+      "refCompanyProfile": {
+        "companyName": "WhatBytes",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/company/65c84a46d870c1135aafe5eb/logo.jpg?d=1707634089259",
+        "refLocation": {
+          "city": "Bangalore",
+          "state": "Karnataka",
+          "country": "India",
+          "createdAt": "2021-09-06T12:09:58.433Z",
+          "updatedAt": "2021-09-06T12:09:58.433Z"
+        }
+      }
+    },
+    "internshipStatus": "in-process",
+    "internshipMode": "full-time",
+    "isInternshipModeFlexible": false,
+    "duration": 3,
+    "isDurationFlexible": false,
+    "startDate": "2024-03-17T13:22:26.297Z",
+    "numOfPositions": 2,
+    "isRemoteInternship": true,
+    "refInternshipTitle": {
+      "name": "Frontend Developer",
+      "createdAt": "2021-09-06T07:16:02.072Z",
+      "updatedAt": "2021-09-06T07:16:02.072Z",
+      "type": 1
+    },
+    "experienceLevel": 2,
+    "immediate": true,
+    "createdAt": "2024-02-16T13:22:26.323Z",
+    "refAdditionalSkills": [],
+    "applicantCount": 2005,
+    "isBookmarked": false,
+    "matchProbability": 10
+  },
+  {
+    "stipendRange": [7000, 10000],
+    "refSkills": [
+      {
+        "name": "C#",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/c%23.svg"
+      },
+      {
+        "name": "Unity 3D",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/unity3d-icon.svg"
+      }
+    ],
+    "refOptionalSkills": [],
+    "jobOffer": [3, 3.5],
+    "applicationQuestions": [
+      {
+        "question": "Why should you be hired for this role?"
+      },
+      {
+        "question": ""
+      }
+    ],
+    "refUser": {
+      "refCompanyProfile": {
+        "companyName": "Ronin Labs",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/company/63f74623e6f84e0547917988/logo.jpg?d=1707811819142",
+        "refLocation": {
+          "city": "Pune",
+          "state": "Maharashtra",
+          "country": "India",
+          "createdAt": "2021-09-06T12:09:58.433Z",
+          "updatedAt": "2021-09-06T12:09:58.433Z"
+        }
+      }
+    },
+    "internshipStatus": "in-process",
+    "internshipMode": "full-time",
+    "isInternshipModeFlexible": false,
+    "duration": 6,
+    "isDurationFlexible": false,
+    "startDate": "2024-03-17T12:07:23.794Z",
+    "numOfPositions": 2,
+    "isRemoteInternship": false,
+    "refInternshipTitle": {
+      "name": "Game Developer",
+      "createdAt": "2021-09-06T07:16:02.072Z",
+      "updatedAt": "2021-09-06T07:16:02.072Z",
+      "type": 1
+    },
+    "refLocation": {
+      "city": "Pune",
+      "state": "Maharashtra",
+      "country": "India",
+      "createdAt": "2021-09-06T12:09:58.433Z",
+      "updatedAt": "2021-09-06T12:09:58.433Z"
+    },
+    "experienceLevel": 1,
+    "immediate": true,
+    "createdAt": "2024-02-16T11:00:03.155Z",
+    "refAdditionalSkills": [],
+    "applicantCount": 417,
+    "isBookmarked": false,
+    "matchProbability": 10
+  },
+  {
+    "stipendRange": [50000, 55000],
+    "refSkills": [
+      {
+        "name": "Deep Learning",
+        "logoUrl": ""
+      },
+      {
+        "name": "CI/CD",
+        "logoUrl": "https://production-cuvette.s3.amazonaws.com/skillsIcon/travis-ci-icon.svg"
+      },
+      {
+        "name": "DevOps",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/DevOPs-icon.webp"
+      },
+      {
+        "name": "Product Management",
+        "logoUrl": ""
+      },
+      {
+        "name": "Product lifecycle management (PLM)",
+        "logoUrl": ""
+      }
+    ],
+    "refOptionalSkills": [
+      {
+        "name": "Python",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/python-icon.svg"
+      },
+      {
+        "name": "Automation testing",
+        "logoUrl": ""
+      },
+      {
+        "name": "Product Design"
+      },
+      {
+        "name": "Product Planning"
+      }
+    ],
+    "jobOffer": [],
+    "applicationQuestions": [
+      {
+        "question": "Why should you be hired for this role?"
+      },
+      {
+        "question": ""
+      }
+    ],
+    "refUser": {
+      "refCompanyProfile": {
+        "companyName": "Scalers.AI",
+        "logoUrl": "",
+        "refLocation": {
+          "city": "",
+          "state": "",
+          "country": "United States Of America (USA)"
+        }
+      }
+    },
+    "internshipStatus": "in-process",
+    "internshipMode": "full-time",
+    "isInternshipModeFlexible": false,
+    "duration": 3,
+    "isDurationFlexible": false,
+    "startDate": "2024-03-20T05:54:39.610Z",
+    "numOfPositions": 1,
+    "isRemoteInternship": true,
+    "refInternshipTitle": {
+      "name": "Technical Product Manager",
+      "createdAt": "2021-09-06T07:16:02.072Z",
+      "updatedAt": "2021-09-06T07:16:02.072Z",
+      "type": 1
+    },
+    "refLocation": {
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "country": "India",
+      "createdAt": "2021-09-06T12:09:58.433Z",
+      "updatedAt": "2021-09-06T12:09:58.433Z"
+    },
+    "experienceLevel": 1,
+    "immediate": true,
+    "createdAt": "2024-02-16T09:07:39.549Z",
+    "refAdditionalSkills": [],
+    "applicantCount": 877,
+    "isBookmarked": false,
+    "matchProbability": 10
+  },
+  {
+    "stipendRange": [20000, 25000],
+    "refSkills": [
+      {
+        "name": "Figma",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/figma-icon.svg"
+      },
+      {
+        "name": "Adobe Creative Cloud"
+      }
+    ],
+    "refOptionalSkills": [],
+    "jobOffer": [],
+    "applicationQuestions": [
+      {
+        "question": "Why should you be hired for this role?"
+      },
+      {
+        "question": ""
+      }
+    ],
+    "refUser": {
+      "refCompanyProfile": {
+        "companyName": "Airtribe",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/company/625d4633edd7b61bff884966/logo.jpg?d=1684482751770",
+        "refLocation": {
+          "city": "Bangalore",
+          "state": "Karnataka",
+          "country": "India",
+          "createdAt": "2021-09-06T12:09:58.433Z",
+          "updatedAt": "2021-09-06T12:09:58.433Z"
+        }
+      }
+    },
+    "internshipStatus": "in-process",
+    "internshipMode": "full-time",
+    "isInternshipModeFlexible": false,
+    "duration": 6,
+    "isDurationFlexible": false,
+    "startDate": "2024-03-17T14:18:33.343Z",
+    "numOfPositions": 1,
+    "isRemoteInternship": false,
+    "refInternshipTitle": {
+      "name": "UI/UX Designer",
+      "type": 1
+    },
+    "refLocation": {
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "country": "India",
+      "createdAt": "2021-09-06T12:09:58.433Z",
+      "updatedAt": "2021-09-06T12:09:58.433Z"
+    },
+    "experienceLevel": 3,
+    "immediate": true,
+    "createdAt": "2024-02-16T07:20:14.035Z",
+    "refAdditionalSkills": [],
+    "applicantCount": 671,
+    "isBookmarked": false,
+    "matchProbability": 10
+  },
+  {
+    "stipendRange": [6000, 11000],
+    "refSkills": [
+      {
+        "name": "Swift",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/Swift-icon.svg"
+      },
+      {
+        "name": "iOS",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/iOS-icon.png"
+      }
+    ],
+    "refOptionalSkills": [],
+    "jobOffer": [],
+    "applicationQuestions": [],
+    "refUser": {
+      "refCompanyProfile": {
+        "companyName": "IELTS Proficiency ",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/company/6436410e073da576d9c0ccf6/logo.jpg?d=1692356275131",
+        "refLocation": {
+          "city": "Amritsar",
+          "state": "Punjab",
+          "country": "India",
+          "createdAt": "2021-09-06T12:09:58.433Z",
+          "updatedAt": "2021-09-06T12:09:58.433Z"
+        }
+      }
+    },
+    "internshipStatus": "in-process",
+    "internshipMode": "part-time",
+    "isInternshipModeFlexible": false,
+    "duration": 2,
+    "isDurationFlexible": false,
+    "startDate": "2024-03-16T17:51:13.584Z",
+    "numOfPositions": 2,
+    "isRemoteInternship": true,
+    "refInternshipTitle": {
+      "name": "Technical Operations",
+      "createdAt": "2021-09-06T07:16:02.072Z",
+      "updatedAt": "2021-09-06T07:16:02.072Z",
+      "type": 1
+    },
+    "experienceLevel": 1,
+    "immediate": true,
+    "createdAt": "2024-02-15T17:51:14.097Z",
+    "refAdditionalSkills": [],
+    "applicantCount": 689,
+    "isBookmarked": false,
+    "matchProbability": 10
+  },
+  {
+    "stipendRange": [40000, 40000],
+    "refSkills": [
+      {
+        "name": "Python",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/python-icon.svg"
+      },
+      {
+        "name": "Deep Learning",
+        "logoUrl": ""
+      },
+      {
+        "name": "Linux",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/linux-icon.svg"
+      },
+      {
+        "name": "Docker",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/docker-icon.svg"
+      },
+      {
+        "name": "Git",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/git-scm-icon.svg"
+      }
+    ],
+    "refOptionalSkills": [
+      {
+        "name": "Automation testing",
+        "logoUrl": ""
+      }
+    ],
+    "jobOffer": [],
+    "applicationQuestions": [
+      {
+        "question": "Why should you be hired for this role?"
+      },
+      {
+        "question": ""
+      }
+    ],
+    "refUser": {
+      "refCompanyProfile": {
+        "companyName": "Scalers.AI",
+        "logoUrl": "",
+        "refLocation": {
+          "city": "",
+          "state": "",
+          "country": "United States Of America (USA)"
+        }
+      }
+    },
+    "internshipStatus": "in-process",
+    "internshipMode": "full-time",
+    "isInternshipModeFlexible": false,
+    "duration": 3,
+    "isDurationFlexible": false,
+    "startDate": "2024-03-20T05:55:34.143Z",
+    "numOfPositions": 4,
+    "isRemoteInternship": true,
+    "refInternshipTitle": {
+      "name": "Software Developer",
+      "createdAt": "2021-09-06T07:16:02.072Z",
+      "updatedAt": "2021-09-06T07:16:02.072Z",
+      "type": 1
+    },
+    "refLocation": {
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "country": "India",
+      "createdAt": "2021-09-06T12:09:58.433Z",
+      "updatedAt": "2021-09-06T12:09:58.433Z"
+    },
+    "experienceLevel": 2,
+    "immediate": true,
+    "createdAt": "2024-02-15T13:45:07.342Z",
+    "refAdditionalSkills": [],
+    "applicantCount": 3603,
+    "isBookmarked": false,
+    "matchProbability": 10
+  },
+  {
+    "stipendRange": [5000, 10000],
+    "refSkills": [
+      {
+        "name": "React.js",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/React-icon.svg"
+      },
+      {
+        "name": "NodeJs",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/Node.js-icon.svg"
+      }
+    ],
+    "refOptionalSkills": [
+      {
+        "name": "Javascript",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/JavaScript-icon.svg"
+      },
+      {
+        "name": "Python",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/python-icon.svg"
+      }
+    ],
+    "jobOffer": [],
+    "applicationQuestions": [],
+    "refUser": {
+      "refCompanyProfile": {
+        "companyName": "Installco WIFY Technology",
+        "logoUrl": "",
+        "refLocation": {
+          "city": "Mumbai",
+          "state": "Maharashtra",
+          "country": "India",
+          "createdAt": "2021-09-06T12:09:58.433Z",
+          "updatedAt": "2021-09-06T12:09:58.433Z"
+        }
+      }
+    },
+    "internshipStatus": "in-process",
+    "internshipMode": "full-time",
+    "isInternshipModeFlexible": false,
+    "duration": 3,
+    "isDurationFlexible": false,
+    "startDate": "2024-03-16T12:01:28.358Z",
+    "numOfPositions": 2,
+    "isRemoteInternship": true,
+    "refInternshipTitle": {
+      "name": "Software Developer",
+      "createdAt": "2021-09-06T07:16:02.072Z",
+      "updatedAt": "2021-09-06T07:16:02.072Z",
+      "type": 1
+    },
+    "refLocation": {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "createdAt": "2021-09-06T12:09:58.433Z",
+      "updatedAt": "2021-09-06T12:09:58.433Z"
+    },
+    "experienceLevel": 1,
+    "immediate": true,
+    "createdAt": "2024-02-15T12:01:26.415Z",
+    "refAdditionalSkills": [],
+    "applicantCount": 1457,
+    "isBookmarked": false,
+    "matchProbability": 45
+  },
+  {
+    "stipendRange": [5000, 6000],
+    "refSkills": [
+      {
+        "name": "Social Media Marketing"
+      }
+    ],
+    "refOptionalSkills": [
+      {
+        "name": "Social Media analysis"
+      }
+    ],
+    "jobOffer": [],
+    "applicationQuestions": [],
+    "refUser": {
+      "refCompanyProfile": {
+        "companyName": "Rushan Corporation",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/company/6446c5d307414f20c61cce3a/logo.jpg?d=1706243313319",
+        "refLocation": {
+          "city": "Ahmedabad",
+          "state": "Gujarat",
+          "country": "India",
+          "createdAt": "2021-09-06T12:09:58.433Z",
+          "updatedAt": "2021-09-06T12:09:58.433Z"
+        }
+      }
+    },
+    "internshipStatus": "in-process",
+    "internshipMode": "semi-fulltime",
+    "isInternshipModeFlexible": false,
+    "duration": 3,
+    "isDurationFlexible": false,
+    "startDate": "2024-03-16T10:40:45.221Z",
+    "numOfPositions": 1,
+    "isRemoteInternship": true,
+    "refInternshipTitle": {
+      "name": "UI/UX Designer",
+      "type": 1
+    },
+    "experienceLevel": 2,
+    "immediate": true,
+    "createdAt": "2024-02-15T10:40:45.348Z",
+    "refAdditionalSkills": [],
+    "applicantCount": 548,
+    "isBookmarked": false,
+    "matchProbability": 10
+  },
+  {
+    "stipendRange": [20000, 25000],
+    "refSkills": [
+      {
+        "name": "Figma",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/figma-icon.svg"
+      },
+      {
+        "name": "UI/UX",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/UIUX-icon.png"
+      },
+      {
+        "name": "Product Design"
+      },
+      {
+        "name": "UI Design"
+      },
+      {
+        "name": "UX Design"
+      }
+    ],
+    "refOptionalSkills": [
+      {
+        "name": "Product Management",
+        "logoUrl": ""
+      },
+      {
+        "name": "UX research"
+      }
+    ],
+    "jobOffer": [5, 7],
+    "applicationQuestions": [],
+    "refUser": {
+      "refCompanyProfile": {
+        "companyName": "ZuPay",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/company/61812a1893e4a3a859e149e0/logo.jpg?d=1693567753460",
+        "refLocation": {
+          "city": "Bangalore",
+          "state": "Karnataka",
+          "country": "India",
+          "createdAt": "2021-09-06T12:09:58.433Z",
+          "updatedAt": "2021-09-06T12:09:58.433Z"
+        }
+      }
+    },
+    "internshipStatus": "in-process",
+    "internshipMode": "full-time",
+    "isInternshipModeFlexible": true,
+    "duration": 6,
+    "isDurationFlexible": true,
+    "startDate": "2024-03-16T10:39:45.827Z",
+    "numOfPositions": 2,
+    "isRemoteInternship": true,
+    "refInternshipTitle": {
+      "name": "UI/UX Designer",
+      "type": 1
+    },
+    "experienceLevel": 3,
+    "immediate": true,
+    "createdAt": "2024-02-15T10:39:46.366Z",
+    "refAdditionalSkills": [],
+    "applicantCount": 860,
+    "isBookmarked": false,
+    "matchProbability": 10
+  },
+  {
+    "stipendRange": [5000, 5000],
+    "refSkills": [
+      {
+        "name": "React.js",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/React-icon.svg"
+      },
+      {
+        "name": "NextJs",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/next-js.svg"
+      },
+      {
+        "name": "Javascript",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/JavaScript-icon.svg"
+      },
+      {
+        "name": "Tailwind",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/tailwindcss-icon.svg"
+      },
+      {
+        "name": "NodeJs",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/Node.js-icon.svg"
+      }
+    ],
+    "refOptionalSkills": [
+      {
+        "name": "Typescript",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/Typescript-icon.svg"
+      },
+      {
+        "name": "MongoDB",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/mongodb-icon.svg"
+      },
+      {
+        "name": "AWS",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/amazon_aws-icon.svg"
+      }
+    ],
+    "jobOffer": [],
+    "applicationQuestions": [],
+    "refUser": {
+      "refCompanyProfile": {
+        "companyName": "Web3Scope",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/company/64f7f4454593e880e870010a/logo.jpg?d=1693974512050",
+        "refLocation": {
+          "city": "",
+          "state": "",
+          "country": "India"
+        }
+      }
+    },
+    "internshipStatus": "in-process",
+    "internshipMode": "full-time",
+    "isInternshipModeFlexible": false,
+    "duration": 2,
+    "isDurationFlexible": false,
+    "startDate": "2024-03-16T09:57:54.680Z",
+    "numOfPositions": 2,
+    "isRemoteInternship": true,
+    "refInternshipTitle": {
+      "name": "Fullstack Developer",
+      "createdAt": "2021-09-06T07:16:02.072Z",
+      "updatedAt": "2021-09-06T07:16:02.072Z",
+      "type": 1
+    },
+    "experienceLevel": 3,
+    "immediate": true,
+    "createdAt": "2024-02-15T09:57:45.739Z",
+    "refAdditionalSkills": [],
+    "applicantCount": 1314,
+    "isBookmarked": false,
+    "matchProbability": 30
+  },
+  {
+    "stipendRange": [7000, 7000],
+    "refSkills": [
+      {
+        "name": "Search Engine Optimization (SEO)"
+      },
+      {
+        "name": "Strong Communication Skills - Written & Verbal"
+      },
+      {
+        "name": "Content Writing",
+        "logoUrl": ""
+      }
+    ],
+    "refOptionalSkills": [],
+    "jobOffer": [],
+    "applicationQuestions": [],
+    "refUser": {
+      "refCompanyProfile": {
+        "companyName": "Emitrr",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/company/6412aef23dad01b688b1c734/logo.jpg?d=1678947352801",
+        "refLocation": {
+          "city": "",
+          "state": "",
+          "country": "United States Of America (USA)"
+        }
+      }
+    },
+    "internshipStatus": "in-process",
+    "internshipMode": "part-time",
+    "isInternshipModeFlexible": false,
+    "duration": 6,
+    "isDurationFlexible": true,
+    "startDate": "2024-03-15T09:54:10.763Z",
+    "numOfPositions": 2,
+    "isRemoteInternship": true,
+    "refInternshipTitle": {
+      "name": "Technical Content Writer",
+      "type": 1
+    },
+    "experienceLevel": 1,
+    "immediate": true,
+    "createdAt": "2024-02-14T09:54:11.791Z",
+    "refAdditionalSkills": [],
+    "applicantCount": 576,
+    "isBookmarked": false,
+    "matchProbability": 10
+  },
+  {
+    "stipendRange": [20000, 21000],
+    "refSkills": [
+      {
+        "name": "Figma",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/figma-icon.svg"
+      },
+      {
+        "name": "AdobeXD",
+        "logoUrl": "https://production-cuvette.s3.amazonaws.com/skillsIcon/Adobe_XD_CC_icon.svg"
+      },
+      {
+        "name": "UI Design"
+      },
+      {
+        "name": "UX Design"
+      },
+      {
+        "name": "UX research"
+      }
+    ],
+    "refOptionalSkills": [],
+    "jobOffer": [],
+    "applicationQuestions": [],
+    "refUser": {
+      "refCompanyProfile": {
+        "companyName": "Singularity",
+        "logoUrl": "",
+        "refLocation": {
+          "city": "Bangalore",
+          "state": "Karnataka",
+          "country": "India",
+          "createdAt": "2021-09-06T12:09:58.433Z",
+          "updatedAt": "2021-09-06T12:09:58.433Z"
+        }
+      }
+    },
+    "internshipStatus": "in-process",
+    "internshipMode": "full-time",
+    "isInternshipModeFlexible": true,
+    "duration": 2,
+    "isDurationFlexible": false,
+    "startDate": "2024-03-15T07:43:27.094Z",
+    "numOfPositions": 1,
+    "isRemoteInternship": true,
+    "refInternshipTitle": {
+      "name": "UI/UX Designer",
+      "type": 1
+    },
+    "experienceLevel": 3,
+    "immediate": true,
+    "createdAt": "2024-02-14T07:43:27.156Z",
+    "refAdditionalSkills": [],
+    "applicantCount": 846,
+    "isBookmarked": false,
+    "matchProbability": 10
+  },
+  {
+    "stipendRange": [15000, 25000],
+    "refSkills": [
+      {
+        "name": "React.js",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/React-icon.svg"
+      },
+      {
+        "name": "NextJs",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/next-js.svg"
+      },
+      {
+        "name": "Material-UI",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/material-ui.svg"
+      },
+      {
+        "name": "Tailwind",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/tailwindcss-icon.svg"
+      },
+      {
+        "name": "Redux",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/Redux-icon.png"
+      }
+    ],
+    "refOptionalSkills": [],
+    "jobOffer": [5, 7],
+    "applicationQuestions": [],
+    "refUser": {
+      "refCompanyProfile": {
+        "companyName": "RoundTechSquare",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/company/628c9670f14f77913003e93e/logo.jpg?d=1653380938626",
+        "refLocation": {
+          "city": "Vadodara",
+          "state": "Gujarat",
+          "country": "India",
+          "createdAt": "2021-09-06T12:09:58.433Z",
+          "updatedAt": "2021-09-06T12:09:58.433Z"
+        }
+      }
+    },
+    "internshipStatus": "in-process",
+    "internshipMode": "full-time",
+    "isInternshipModeFlexible": true,
+    "duration": 6,
+    "isDurationFlexible": false,
+    "startDate": "2024-03-15T06:19:51.386Z",
+    "numOfPositions": 2,
+    "isRemoteInternship": true,
+    "refInternshipTitle": {
+      "name": "Frontend Developer",
+      "createdAt": "2021-09-06T07:16:02.072Z",
+      "updatedAt": "2021-09-06T07:16:02.072Z",
+      "type": 1
+    },
+    "experienceLevel": 3,
+    "immediate": true,
+    "createdAt": "2024-02-14T06:19:51.922Z",
+    "refAdditionalSkills": [],
+    "applicantCount": 2872,
+    "isBookmarked": false,
+    "matchProbability": 10
+  },
+  {
+    "stipendRange": [5000, 5000],
+    "refSkills": [
+      {
+        "name": "Kotlin",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/Kotlin-icon.svg"
+      },
+      {
+        "name": "Java",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/java-icon.svg"
+      },
+      {
+        "name": "Android Studio"
+      }
+    ],
+    "refOptionalSkills": [
+      {
+        "name": "Git",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/git-scm-icon.svg"
+      },
+      {
+        "name": "Github",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/github-icon.svg"
+      }
+    ],
+    "jobOffer": [],
+    "applicationQuestions": [],
+    "refUser": {
+      "refCompanyProfile": {
+        "companyName": "DevCons Software Solutions Pvt Ltd",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/company/65cc53aa0ac2234cff589948/logo.jpg?d=1707889891832",
+        "refLocation": {
+          "city": "Pune",
+          "state": "Maharashtra",
+          "country": "India",
+          "createdAt": "2021-09-06T12:09:58.433Z",
+          "updatedAt": "2021-09-06T12:09:58.433Z"
+        }
+      }
+    },
+    "internshipStatus": "in-process",
+    "internshipMode": "full-time",
+    "isInternshipModeFlexible": true,
+    "duration": 3,
+    "isDurationFlexible": false,
+    "startDate": "2024-03-15T06:04:44.571Z",
+    "numOfPositions": 20,
+    "isRemoteInternship": false,
+    "refInternshipTitle": {
+      "name": "Mobile App Developer",
+      "createdAt": "2021-09-06T07:16:02.072Z",
+      "updatedAt": "2021-09-06T07:16:02.072Z",
+      "type": 1
+    },
+    "refLocation": {
+      "city": "Pune",
+      "state": "Maharashtra",
+      "country": "India",
+      "createdAt": "2021-09-06T12:09:58.433Z",
+      "updatedAt": "2021-09-06T12:09:58.433Z"
+    },
+    "experienceLevel": 1,
+    "immediate": true,
+    "createdAt": "2024-02-14T06:04:45.751Z",
+    "refAdditionalSkills": [],
+    "applicantCount": 493,
+    "isBookmarked": false,
+    "matchProbability": 10
+  },
+  {
+    "stipendRange": [15000, 20000],
+    "refSkills": [
+      {
+        "name": "Django",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/django.svg"
+      },
+      {
+        "name": "Python",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/python-icon.svg"
+      }
+    ],
+    "refOptionalSkills": [
+      {
+        "name": "Problem Solving",
+        "createdAt": "2021-09-06T07:03:14.268Z",
+        "updatedAt": "2021-09-06T07:03:14.268Z",
+        "isApproved": true
+      },
+      {
+        "name": "Flask",
+        "logoUrl": "https://production-cuvette.s3.amazonaws.com/skillsIcon/pocoo_flask-icon.svg"
+      }
+    ],
+    "jobOffer": [6, 10],
+    "applicationQuestions": [
+      {
+        "question": "Why should you be hired for this role?"
+      },
+      {
+        "question": ""
+      }
+    ],
+    "refUser": {
+      "refCompanyProfile": {
+        "companyName": "Enalo",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/company/626144b359a7ed80c18559ae/logo.jpg?d=1682292344033",
+        "refLocation": {
+          "city": "Hyderabad",
+          "state": "Telangana",
+          "country": "India",
+          "createdAt": "2021-09-06T12:09:58.433Z",
+          "updatedAt": "2021-09-06T12:09:58.433Z"
+        }
+      }
+    },
+    "internshipStatus": "in-process",
+    "internshipMode": "full-time",
+    "isInternshipModeFlexible": false,
+    "duration": 6,
+    "isDurationFlexible": false,
+    "startDate": "2024-03-15T17:03:53.214Z",
+    "numOfPositions": 2,
+    "isRemoteInternship": true,
+    "refInternshipTitle": {
+      "name": "Backend Developer",
+      "createdAt": "2021-09-06T07:16:02.072Z",
+      "updatedAt": "2021-09-06T07:16:02.072Z",
+      "type": 1
+    },
+    "experienceLevel": 3,
+    "immediate": true,
+    "createdAt": "2024-02-13T13:04:11.498Z",
+    "refAdditionalSkills": [],
+    "applicantCount": 1901,
+    "isBookmarked": false,
+    "matchProbability": 10
+  },
+  {
+    "stipendRange": [10000, 120000],
+    "refSkills": [
+      {
+        "name": "React.js",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/React-icon.svg"
+      },
+      {
+        "name": "NodeJs",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/Node.js-icon.svg"
+      }
+    ],
+    "refOptionalSkills": [
+      {
+        "name": "Teamwork"
+      }
+    ],
+    "jobOffer": [],
+    "applicationQuestions": [],
+    "refUser": {
+      "refCompanyProfile": {
+        "companyName": "GrowthGear",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/company/627cc15579501473849c471f/logo.jpg?d=1652343317598",
+        "refLocation": {
+          "city": "",
+          "state": "",
+          "country": "India"
+        }
+      }
+    },
+    "internshipStatus": "in-process",
+    "internshipMode": "full-time",
+    "isInternshipModeFlexible": false,
+    "duration": 3,
+    "isDurationFlexible": false,
+    "startDate": "2024-03-14T10:06:56.054Z",
+    "numOfPositions": 1,
+    "isRemoteInternship": false,
+    "refInternshipTitle": {
+      "name": "Product Management",
+      "createdAt": "2021-09-06T07:16:02.072Z",
+      "updatedAt": "2021-09-06T07:16:02.072Z",
+      "type": 1
+    },
+    "refLocation": {
+      "city": "Delhi",
+      "state": "Delhi",
+      "country": "India",
+      "createdAt": "2021-09-06T12:09:58.433Z",
+      "updatedAt": "2021-09-06T12:09:58.433Z"
+    },
+    "experienceLevel": 2,
+    "immediate": true,
+    "createdAt": "2024-02-13T10:06:54.716Z",
+    "refAdditionalSkills": [],
+    "applicantCount": 1263,
+    "isBookmarked": false,
+    "matchProbability": 45
+  },
+  {
+    "stipendRange": [45000, 90000],
+    "refSkills": [
+      {
+        "name": "React.js",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/React-icon.svg"
+      },
+      {
+        "name": "NodeJs",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/Node.js-icon.svg"
+      },
+      {
+        "name": "ExpressJs",
+        "logoUrl": "https://production-cuvette.s3.amazonaws.com/skillsIcon/expressjs-icon.svg"
+      },
+      {
+        "name": "MongoDB",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/mongodb-icon.svg"
+      }
+    ],
+    "refOptionalSkills": [
+      {
+        "name": "Typescript",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/Typescript-icon.svg"
+      },
+      {
+        "name": "AWS",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/amazon_aws-icon.svg"
+      },
+      {
+        "name": "Azure",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/microsoft_azure-icon.svg"
+      },
+      {
+        "name": "CI/CD",
+        "logoUrl": "https://production-cuvette.s3.amazonaws.com/skillsIcon/travis-ci-icon.svg"
+      },
+      {
+        "name": "Jest Snapshot",
+        "logoUrl": ""
+      }
+    ],
+    "jobOffer": [12, 24],
+    "applicationQuestions": [],
+    "refUser": {
+      "refCompanyProfile": {
+        "companyName": "Atomic Power Evolution Awareness Foundation",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/company/6195dff7f54e7defac191ad5/logo.jpg?d=1700111422486",
+        "refLocation": {
+          "city": "Mumbai",
+          "state": "Maharashtra",
+          "country": "India",
+          "createdAt": "2021-09-06T12:09:58.433Z",
+          "updatedAt": "2021-09-06T12:09:58.433Z"
+        }
+      }
+    },
+    "internshipStatus": "in-process",
+    "internshipMode": "full-time",
+    "isInternshipModeFlexible": false,
+    "duration": 6,
+    "isDurationFlexible": true,
+    "startDate": "2024-03-14T04:32:19.324Z",
+    "numOfPositions": 1,
+    "isRemoteInternship": true,
+    "refInternshipTitle": {
+      "name": "Fullstack Developer",
+      "createdAt": "2021-09-06T07:16:02.072Z",
+      "updatedAt": "2021-09-06T07:16:02.072Z",
+      "type": 1
+    },
+    "experienceLevel": 3,
+    "immediate": true,
+    "createdAt": "2024-02-13T04:32:20.006Z",
+    "refAdditionalSkills": [],
+    "applicantCount": 3330,
+    "isBookmarked": false,
+    "matchProbability": 55
+  },
+  {
+    "stipendRange": [5000, 5000],
+    "refSkills": [
+      {
+        "name": "Content Creation"
+      },
+      {
+        "name": "Content Marketing"
+      },
+      {
+        "name": "Creative Content Creation"
+      },
+      {
+        "name": "Content Writing",
+        "logoUrl": ""
+      }
+    ],
+    "refOptionalSkills": [],
+    "jobOffer": [],
+    "applicationQuestions": [
+      {
+        "question": "Why should you be hired for this role?"
+      },
+      {
+        "question": ""
+      }
+    ],
+    "refUser": {
+      "refCompanyProfile": {
+        "companyName": "Ticktech IT Solutions",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/company/63a12dce13387861860ca870/logo.jpg?d=1671507688221",
+        "refLocation": {
+          "city": "Nashik",
+          "state": "Maharashtra",
+          "country": "India",
+          "createdAt": "2021-09-06T12:09:58.433Z",
+          "updatedAt": "2021-09-06T12:09:58.433Z"
+        }
+      }
+    },
+    "internshipStatus": "in-process",
+    "internshipMode": "part-time",
+    "isInternshipModeFlexible": true,
+    "duration": 3,
+    "isDurationFlexible": false,
+    "startDate": "2024-03-13T18:16:41.670Z",
+    "numOfPositions": 1,
+    "isRemoteInternship": true,
+    "refInternshipTitle": {
+      "name": "Technical Content Writer",
+      "type": 1
+    },
+    "experienceLevel": 3,
+    "immediate": true,
+    "createdAt": "2024-02-12T18:14:43.036Z",
+    "refAdditionalSkills": [],
+    "applicantCount": 550,
+    "isBookmarked": false,
+    "matchProbability": 10
+  },
+  {
+    "stipendRange": [10000, 12000],
+    "refSkills": [
+      {
+        "name": "UI Design"
+      }
+    ],
+    "refOptionalSkills": [
+      {
+        "name": "Figma",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/figma-icon.svg"
+      },
+      {
+        "name": "AdobeXD",
+        "logoUrl": "https://production-cuvette.s3.amazonaws.com/skillsIcon/Adobe_XD_CC_icon.svg"
+      },
+      {
+        "name": "Sketch"
+      }
+    ],
+    "jobOffer": [],
+    "applicationQuestions": [],
+    "refUser": {
+      "refCompanyProfile": {
+        "companyName": "Nirmaan",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/company/65c9f1928aec464cbfb28abb/logo.jpg?d=1707736944648",
+        "refLocation": {
+          "city": "",
+          "state": "",
+          "country": "India"
+        }
+      }
+    },
+    "internshipStatus": "in-process",
+    "internshipMode": "semi-fulltime",
+    "isInternshipModeFlexible": false,
+    "duration": 3,
+    "isDurationFlexible": false,
+    "startDate": "2024-03-13T15:45:29.329Z",
+    "numOfPositions": 1,
+    "isRemoteInternship": true,
+    "refInternshipTitle": {
+      "name": "UI/UX Designer",
+      "type": 1
+    },
+    "experienceLevel": 2,
+    "immediate": true,
+    "createdAt": "2024-02-12T15:45:29.955Z",
+    "refAdditionalSkills": [],
+    "applicantCount": 1011,
+    "isBookmarked": false,
+    "matchProbability": 10
+  },
+  {
+    "stipendRange": [20000, 25000],
+    "refSkills": [
+      {
+        "name": "Flask",
+        "logoUrl": "https://production-cuvette.s3.amazonaws.com/skillsIcon/pocoo_flask-icon.svg"
+      },
+      {
+        "name": "Python",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/python-icon.svg"
+      },
+      {
+        "name": "Google Cloud",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/google_cloud-icon.svg"
+      },
+      {
+        "name": "REST",
+        "logoUrl": "https://production-cuvette.s3.amazonaws.com/skillsIcon/rest-api.svg"
+      },
+      {
+        "name": "Data Science",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/Data-Science-icon.png"
+      }
+    ],
+    "refOptionalSkills": [
+      {
+        "name": "Javascript",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/JavaScript-icon.svg"
+      },
+      {
+        "name": "Git",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/git-scm-icon.svg"
+      },
+      {
+        "name": "API",
+        "logoUrl": ""
+      },
+      {
+        "name": "Data Cleaning"
+      }
+    ],
+    "jobOffer": [],
+    "applicationQuestions": [],
+    "refUser": {
+      "refCompanyProfile": {
+        "companyName": "Smollan",
+        "logoUrl": "",
+        "refLocation": {
+          "city": "",
+          "state": "",
+          "country": "South Africa"
+        }
+      }
+    },
+    "internshipStatus": "in-process",
+    "internshipMode": "full-time",
+    "isInternshipModeFlexible": false,
+    "duration": 6,
+    "isDurationFlexible": true,
+    "startDate": "2024-03-13T14:38:26.752Z",
+    "numOfPositions": 2,
+    "isRemoteInternship": true,
+    "refInternshipTitle": {
+      "name": "Backend Developer",
+      "createdAt": "2021-09-06T07:16:02.072Z",
+      "updatedAt": "2021-09-06T07:16:02.072Z",
+      "type": 1
+    },
+    "experienceLevel": 2,
+    "immediate": true,
+    "createdAt": "2024-02-12T14:38:27.660Z",
+    "refAdditionalSkills": [],
+    "applicantCount": 1354,
+    "isBookmarked": false,
+    "matchProbability": 10
+  },
+  {
+    "stipendRange": [15000, 24000],
+    "refSkills": [
+      {
+        "name": "NextJs",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/next-js.svg"
+      },
+      {
+        "name": "Javascript",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/JavaScript-icon.svg"
+      },
+      {
+        "name": "NodeJs",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/Node.js-icon.svg"
+      },
+      {
+        "name": "Typescript",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/Typescript-icon.svg"
+      }
+    ],
+    "refOptionalSkills": [],
+    "jobOffer": [14, 21],
+    "applicationQuestions": [],
+    "refUser": {
+      "refCompanyProfile": {
+        "companyName": "Learnbie",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/company/659a8092ffbf45b66cf4fcbb/logo.jpg?d=1704624378082",
+        "refLocation": {
+          "city": "Bangalore",
+          "state": "Karnataka",
+          "country": "India",
+          "createdAt": "2021-09-06T12:09:58.433Z",
+          "updatedAt": "2021-09-06T12:09:58.433Z"
+        }
+      }
+    },
+    "internshipStatus": "in-process",
+    "internshipMode": "full-time",
+    "isInternshipModeFlexible": false,
+    "duration": 2,
+    "isDurationFlexible": false,
+    "startDate": "2024-03-13T13:38:32.685Z",
+    "numOfPositions": 6,
+    "isRemoteInternship": true,
+    "refInternshipTitle": {
+      "name": "Fullstack Developer",
+      "createdAt": "2021-09-06T07:16:02.072Z",
+      "updatedAt": "2021-09-06T07:16:02.072Z",
+      "type": 1
+    },
+    "experienceLevel": 3,
+    "immediate": true,
+    "createdAt": "2024-02-12T13:38:33.581Z",
+    "refAdditionalSkills": [],
+    "applicantCount": 2959,
+    "isBookmarked": false,
+    "matchProbability": 35
+  },
+  {
+    "stipendRange": [8000, 12000],
+    "refSkills": [
+      {
+        "name": "Figma",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/figma-icon.svg"
+      },
+      {
+        "name": "After Effects"
+      },
+      {
+        "name": "Illustrator"
+      },
+      {
+        "name": "InDesign"
+      },
+      {
+        "name": "Photoshop"
+      }
+    ],
+    "refOptionalSkills": [
+      {
+        "name": "AdobeXD",
+        "logoUrl": "https://production-cuvette.s3.amazonaws.com/skillsIcon/Adobe_XD_CC_icon.svg"
+      }
+    ],
+    "jobOffer": [],
+    "applicationQuestions": [],
+    "refUser": {
+      "refCompanyProfile": {
+        "companyName": "Indivue Technologies India Private Limites",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/company/6496860a75b4af11ce90e3c1/logo.jpg?d=1687586709212",
+        "refLocation": {
+          "city": "Delhi",
+          "state": "Delhi",
+          "country": "India",
+          "createdAt": "2021-09-06T12:09:58.433Z",
+          "updatedAt": "2021-09-06T12:09:58.433Z"
+        }
+      }
+    },
+    "internshipStatus": "in-process",
+    "internshipMode": "full-time",
+    "isInternshipModeFlexible": false,
+    "duration": 6,
+    "isDurationFlexible": false,
+    "startDate": "2024-03-13T11:15:19.972Z",
+    "numOfPositions": 2,
+    "isRemoteInternship": true,
+    "refInternshipTitle": {
+      "name": "UI/UX Designer",
+      "type": 1
+    },
+    "experienceLevel": 1,
+    "immediate": true,
+    "createdAt": "2024-02-12T11:15:20.139Z",
+    "refAdditionalSkills": [],
+    "applicantCount": 765,
+    "isBookmarked": false,
+    "matchProbability": 10
+  },
+  {
+    "stipendRange": [8000, 12000],
+    "refSkills": [
+      {
+        "name": "Figma",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/figma-icon.svg"
+      },
+      {
+        "name": "After Effects"
+      },
+      {
+        "name": "Illustrator"
+      },
+      {
+        "name": "InDesign"
+      },
+      {
+        "name": "Photoshop"
+      }
+    ],
+    "refOptionalSkills": [
+      {
+        "name": "AdobeXD",
+        "logoUrl": "https://production-cuvette.s3.amazonaws.com/skillsIcon/Adobe_XD_CC_icon.svg"
+      }
+    ],
+    "jobOffer": [],
+    "applicationQuestions": [],
+    "refUser": {
+      "refCompanyProfile": {
+        "companyName": "Indivue Technologies India Private Limites",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/company/6496860a75b4af11ce90e3c1/logo.jpg?d=1687586709212",
+        "refLocation": {
+          "city": "Delhi",
+          "state": "Delhi",
+          "country": "India",
+          "createdAt": "2021-09-06T12:09:58.433Z",
+          "updatedAt": "2021-09-06T12:09:58.433Z"
+        }
+      }
+    },
+    "internshipStatus": "in-process",
+    "internshipMode": "full-time",
+    "isInternshipModeFlexible": false,
+    "duration": 6,
+    "isDurationFlexible": false,
+    "startDate": "2024-03-13T11:14:49.777Z",
+    "numOfPositions": 2,
+    "isRemoteInternship": true,
+    "refInternshipTitle": {
+      "name": "UI/UX Designer",
+      "type": 1
+    },
+    "experienceLevel": 1,
+    "immediate": true,
+    "createdAt": "2024-02-12T11:14:50.011Z",
+    "refAdditionalSkills": [],
+    "applicantCount": 581,
+    "isBookmarked": false,
+    "matchProbability": 10
+  },
+  {
+    "stipendRange": [10000, 15000],
+    "refSkills": [
+      {
+        "name": "React.js",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/React-icon.svg"
+      },
+      {
+        "name": "Javascript",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/JavaScript-icon.svg"
+      },
+      {
+        "name": "HTML",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/html-icon.svg"
+      },
+      {
+        "name": "CSS",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/Css-icon.svg"
+      }
+    ],
+    "refOptionalSkills": [],
+    "jobOffer": [],
+    "applicationQuestions": [],
+    "refUser": {
+      "refCompanyProfile": {
+        "companyName": "GroVr",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/company/64c99f4b0ae6f95b53578855/logo.jpg?d=1690935261476",
+        "refLocation": {
+          "city": "Bangalore",
+          "state": "Karnataka",
+          "country": "India",
+          "createdAt": "2021-09-06T12:09:58.433Z",
+          "updatedAt": "2021-09-06T12:09:58.433Z"
+        }
+      }
+    },
+    "internshipStatus": "in-process",
+    "internshipMode": "semi-fulltime",
+    "isInternshipModeFlexible": false,
+    "duration": 6,
+    "isDurationFlexible": true,
+    "startDate": "2024-03-13T09:54:43.016Z",
+    "numOfPositions": 2,
+    "isRemoteInternship": true,
+    "refInternshipTitle": {
+      "name": "Software Developer",
+      "createdAt": "2021-09-06T07:16:02.072Z",
+      "updatedAt": "2021-09-06T07:16:02.072Z",
+      "type": 1
+    },
+    "experienceLevel": 2,
+    "immediate": true,
+    "createdAt": "2024-02-12T09:54:43.334Z",
+    "refAdditionalSkills": [],
+    "applicantCount": 3176,
+    "isBookmarked": false,
+    "matchProbability": 40
+  },
+  {
+    "stipendRange": [15000, 25000],
+    "refSkills": [
+      {
+        "name": "Good Communication",
+        "createdAt": "2021-09-06T07:03:14.268Z",
+        "updatedAt": "2021-09-06T07:03:14.268Z",
+        "isApproved": true
+      },
+      {
+        "name": "Machine Learning",
+        "logoUrl": "https://production-cuvette.s3.amazonaws.com/skillsIcon/Machine-Learning.svg"
+      },
+      {
+        "name": "AWS",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/amazon_aws-icon.svg"
+      },
+      {
+        "name": "Azure",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/microsoft_azure-icon.svg"
+      },
+      {
+        "name": "Teamwork"
+      }
+    ],
+    "refOptionalSkills": [],
+    "jobOffer": [6, 10],
+    "applicationQuestions": [],
+    "refUser": {
+      "refCompanyProfile": {
+        "companyName": "FullCircle Technologies Inc.",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/company/63f4e6500bd62d8b78a73253/logo.jpg?d=1676994430838",
+        "refLocation": {
+          "city": "",
+          "state": "",
+          "country": "United States Of America (USA)"
+        }
+      }
+    },
+    "internshipStatus": "in-process",
+    "internshipMode": "semi-fulltime",
+    "isInternshipModeFlexible": false,
+    "duration": 3,
+    "isDurationFlexible": false,
+    "startDate": "2024-03-13T07:32:18.723Z",
+    "numOfPositions": 1,
+    "isRemoteInternship": true,
+    "refInternshipTitle": {
+      "name": "Machine Learning Engineer",
+      "createdAt": "2021-09-06T07:16:02.072Z",
+      "updatedAt": "2021-09-06T07:16:02.072Z",
+      "type": 1
+    },
+    "experienceLevel": 3,
+    "immediate": true,
+    "createdAt": "2024-02-12T07:32:20.416Z",
+    "refAdditionalSkills": [],
+    "applicantCount": 1495,
+    "isBookmarked": false,
+    "matchProbability": 10
+  },
+  {
+    "stipendRange": [15000, 25000],
+    "refSkills": [
+      {
+        "name": "Figma",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/figma-icon.svg"
+      },
+      {
+        "name": "A/B Testing"
+      },
+      {
+        "name": "People's Buying Patterns and Trends"
+      },
+      {
+        "name": "Strong Communication Skills - Written & Verbal"
+      },
+      {
+        "name": "visual communication"
+      }
+    ],
+    "refOptionalSkills": [],
+    "jobOffer": [],
+    "applicationQuestions": [],
+    "refUser": {
+      "refCompanyProfile": {
+        "companyName": "FullCircle Technologies Inc.",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/company/63f4e6500bd62d8b78a73253/logo.jpg?d=1676994430838",
+        "refLocation": {
+          "city": "",
+          "state": "",
+          "country": "United States Of America (USA)"
+        }
+      }
+    },
+    "internshipStatus": "in-process",
+    "internshipMode": "semi-fulltime",
+    "isInternshipModeFlexible": false,
+    "duration": 3,
+    "isDurationFlexible": false,
+    "startDate": "2024-03-13T07:29:18.931Z",
+    "numOfPositions": 1,
+    "isRemoteInternship": true,
+    "refInternshipTitle": {
+      "name": "UI/UX Designer",
+      "type": 1
+    },
+    "experienceLevel": 3,
+    "immediate": true,
+    "createdAt": "2024-02-12T07:29:19.674Z",
+    "refAdditionalSkills": [],
+    "applicantCount": 647,
+    "isBookmarked": false,
+    "matchProbability": 10
+  },
+  {
+    "stipendRange": [15000, 25000],
+    "refSkills": [
+      {
+        "name": "Analytical Thinking",
+        "createdAt": "2021-09-06T07:03:14.268Z",
+        "updatedAt": "2021-09-06T07:03:14.268Z",
+        "isApproved": true
+      },
+      {
+        "name": "A/B Testing"
+      },
+      {
+        "name": "Negotiation and Persuasion"
+      },
+      {
+        "name": "Strong Communication Skills - Written & Verbal"
+      },
+      {
+        "name": "Technical advisement"
+      }
+    ],
+    "refOptionalSkills": [],
+    "jobOffer": [],
+    "applicationQuestions": [],
+    "refUser": {
+      "refCompanyProfile": {
+        "companyName": "FullCircle Technologies Inc.",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/company/63f4e6500bd62d8b78a73253/logo.jpg?d=1676994430838",
+        "refLocation": {
+          "city": "",
+          "state": "",
+          "country": "United States Of America (USA)"
+        }
+      }
+    },
+    "internshipStatus": "in-process",
+    "internshipMode": "part-time",
+    "isInternshipModeFlexible": false,
+    "duration": 3,
+    "isDurationFlexible": false,
+    "startDate": "2024-03-13T07:25:39.148Z",
+    "numOfPositions": 1,
+    "isRemoteInternship": true,
+    "refInternshipTitle": {
+      "name": "Technical Content Writer",
+      "type": 1
+    },
+    "experienceLevel": 3,
+    "immediate": true,
+    "createdAt": "2024-02-12T07:25:39.517Z",
+    "refAdditionalSkills": [],
+    "applicantCount": 511,
+    "isBookmarked": false,
+    "matchProbability": 10
+  },
+  {
+    "stipendRange": [6000, 7000],
+    "refSkills": [
+      {
+        "name": "Flutter",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/flutter-icon.svg"
+      },
+      {
+        "name": "NodeJs",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/Node.js-icon.svg"
+      },
+      {
+        "name": "AWS",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/amazon_aws-icon.svg"
+      },
+      {
+        "name": "Firebase",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/Firebase-icon.png"
+      },
+      {
+        "name": "API",
+        "logoUrl": ""
+      }
+    ],
+    "refOptionalSkills": [
+      {
+        "name": "UI/UX",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/UIUX-icon.png"
+      },
+      {
+        "name": "Analytical Thinking",
+        "createdAt": "2021-09-06T07:03:14.268Z",
+        "updatedAt": "2021-09-06T07:03:14.268Z",
+        "isApproved": true
+      },
+      {
+        "name": "Lean Thinking"
+      },
+      {
+        "name": "Product Design"
+      },
+      {
+        "name": "Project Leadership"
+      }
+    ],
+    "jobOffer": [],
+    "applicationQuestions": [],
+    "refUser": {
+      "refCompanyProfile": {
+        "companyName": "BillPay Tech",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/company/613fa45183c4f428bad69afd/logo.jpg?d=1707721529334",
+        "refLocation": {
+          "city": "Lucknow",
+          "state": "Uttar Pradesh",
+          "country": "India",
+          "createdAt": "2021-09-06T12:09:58.433Z",
+          "updatedAt": "2021-09-06T12:09:58.433Z"
+        }
+      }
+    },
+    "internshipStatus": "in-process",
+    "internshipMode": "part-time",
+    "isInternshipModeFlexible": false,
+    "duration": 2,
+    "isDurationFlexible": false,
+    "startDate": "2024-03-13T07:18:23.103Z",
+    "numOfPositions": 2,
+    "isRemoteInternship": true,
+    "refInternshipTitle": {
+      "name": "Mobile App Developer",
+      "createdAt": "2021-09-06T07:16:02.072Z",
+      "updatedAt": "2021-09-06T07:16:02.072Z",
+      "type": 1
+    },
+    "experienceLevel": 2,
+    "immediate": true,
+    "createdAt": "2024-02-12T07:18:24.333Z",
+    "refAdditionalSkills": [],
+    "applicantCount": 570,
+    "isBookmarked": false,
+    "matchProbability": 10
+  },
+  {
+    "stipendRange": [25000, 40000],
+    "refSkills": [
+      {
+        "name": "Internet of Things (IoT)",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/IoT-icon.png"
+      },
+      {
+        "name": "Industrial Engineering"
+      },
+      {
+        "name": "Industrial design",
+        "logoUrl": ""
+      }
+    ],
+    "refOptionalSkills": [
+      {
+        "name": "Python",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/python-icon.svg"
+      },
+      {
+        "name": "AIDL",
+        "logoUrl": ""
+      },
+      {
+        "name": "Interaction design"
+      }
+    ],
+    "jobOffer": [],
+    "applicationQuestions": [],
+    "refUser": {
+      "refCompanyProfile": {
+        "companyName": "Evva Health Inc.",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/company/61c94d35ea7aece189b2a315/logo.jpg?d=1640582638337",
+        "refLocation": {
+          "city": "",
+          "state": "",
+          "country": "United States Of America (USA)"
+        }
+      }
+    },
+    "internshipStatus": "in-process",
+    "internshipMode": "semi-fulltime",
+    "isInternshipModeFlexible": false,
+    "duration": 2,
+    "isDurationFlexible": false,
+    "startDate": "2024-03-13T05:46:31.276Z",
+    "numOfPositions": 1,
+    "isRemoteInternship": true,
+    "refInternshipTitle": {
+      "name": "Embedded Software Engineer",
+      "type": 1
+    },
+    "experienceLevel": 2,
+    "immediate": true,
+    "createdAt": "2024-02-12T06:46:31.572Z",
+    "refAdditionalSkills": [],
+    "applicantCount": 692,
+    "isBookmarked": false,
+    "matchProbability": 10
+  },
+  {
+    "stipendRange": [15000, 20000],
+    "refSkills": [
+      {
+        "name": "Svelte",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/Svelte-icon.svg"
+      },
+      {
+        "name": "Tailwind",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/tailwindcss-icon.svg"
+      },
+      {
+        "name": "Typescript",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/Typescript-icon.svg"
+      },
+      {
+        "name": "Figma",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/figma-icon.svg"
+      }
+    ],
+    "refOptionalSkills": [],
+    "jobOffer": [],
+    "applicationQuestions": [
+      {
+        "question": "Why should you be hired for this role?"
+      },
+      {
+        "question": ""
+      }
+    ],
+    "refUser": {
+      "refCompanyProfile": {
+        "companyName": "Smollan",
+        "logoUrl": "",
+        "refLocation": {
+          "city": "",
+          "state": "",
+          "country": "South Africa"
+        }
+      }
+    },
+    "internshipStatus": "in-process",
+    "internshipMode": "full-time",
+    "isInternshipModeFlexible": true,
+    "duration": 3,
+    "isDurationFlexible": false,
+    "startDate": "2024-03-13T05:48:54.738Z",
+    "numOfPositions": 1,
+    "isRemoteInternship": true,
+    "refInternshipTitle": {
+      "name": "Frontend Developer",
+      "createdAt": "2021-09-06T07:16:02.072Z",
+      "updatedAt": "2021-09-06T07:16:02.072Z",
+      "type": 1
+    },
+    "experienceLevel": 1,
+    "immediate": true,
+    "createdAt": "2024-02-12T04:29:28.479Z",
+    "refAdditionalSkills": [],
+    "applicantCount": 1568,
+    "isBookmarked": false,
+    "matchProbability": 20
+  },
+  {
+    "stipendRange": [10000, 15000],
+    "refSkills": [
+      {
+        "name": "React.js",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/React-icon.svg"
+      },
+      {
+        "name": "Javascript",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/JavaScript-icon.svg"
+      },
+      {
+        "name": "NodeJs",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/Node.js-icon.svg"
+      },
+      {
+        "name": "AWS",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/amazon_aws-icon.svg"
+      }
+    ],
+    "refOptionalSkills": [],
+    "jobOffer": [6, 15],
+    "applicationQuestions": [],
+    "refUser": {
+      "refCompanyProfile": {
+        "companyName": "Pype",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/company/6526bfcc74c8fbbd51362563/logo.jpg?d=1697111166506",
+        "refLocation": {
+          "city": "Gurugram",
+          "state": "Haryana",
+          "country": "India",
+          "createdAt": "2021-09-06T12:09:58.433Z",
+          "updatedAt": "2021-09-06T12:09:58.433Z"
+        }
+      }
+    },
+    "internshipStatus": "in-process",
+    "internshipMode": "part-time",
+    "isInternshipModeFlexible": false,
+    "duration": 3,
+    "isDurationFlexible": false,
+    "startDate": "2024-03-12T17:19:51.887Z",
+    "numOfPositions": 2,
+    "isRemoteInternship": true,
+    "refInternshipTitle": {
+      "name": "Fullstack Developer",
+      "createdAt": "2021-09-06T07:16:02.072Z",
+      "updatedAt": "2021-09-06T07:16:02.072Z",
+      "type": 1
+    },
+    "experienceLevel": 2,
+    "immediate": true,
+    "createdAt": "2024-02-11T17:19:52.523Z",
+    "refAdditionalSkills": [],
+    "applicantCount": 2116,
+    "isBookmarked": false,
+    "matchProbability": 35
+  },
+  {
+    "stipendRange": [5000, 6000],
+    "refSkills": [
+      {
+        "name": "Content Creation"
+      },
+      {
+        "name": "Content Marketing"
+      },
+      {
+        "name": "Creative Content Creation"
+      }
+    ],
+    "refOptionalSkills": [
+      {
+        "name": "Wordpress",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/WordPress-icon.png"
+      },
+      {
+        "name": "Search Engine Optimization (SEO)"
+      }
+    ],
+    "jobOffer": [],
+    "applicationQuestions": [],
+    "refUser": {
+      "refCompanyProfile": {
+        "companyName": "Psyber",
+        "logoUrl": "",
+        "refLocation": {
+          "city": "Mumbai",
+          "state": "Maharashtra",
+          "country": "India",
+          "createdAt": "2021-09-06T12:09:58.433Z",
+          "updatedAt": "2021-09-06T12:09:58.433Z"
+        }
+      }
+    },
+    "internshipStatus": "in-process",
+    "internshipMode": "part-time",
+    "isInternshipModeFlexible": false,
+    "duration": 1,
+    "isDurationFlexible": false,
+    "startDate": "2024-03-12T16:54:04.736Z",
+    "numOfPositions": 5,
+    "isRemoteInternship": true,
+    "refInternshipTitle": {
+      "name": "Technical Content Writer",
+      "type": 1
+    },
+    "experienceLevel": 1,
+    "immediate": true,
+    "createdAt": "2024-02-11T16:54:05.196Z",
+    "refAdditionalSkills": [],
+    "applicantCount": 507,
+    "isBookmarked": false,
+    "matchProbability": 10
+  },
+  {
+    "stipendRange": [12000, 15000],
+    "refSkills": [
+      {
+        "name": "React.js",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/React-icon.svg"
+      },
+      {
+        "name": "Django",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/django.svg"
+      }
+    ],
+    "refOptionalSkills": [],
+    "jobOffer": [6, 10],
+    "applicationQuestions": [],
+    "refUser": {
+      "refCompanyProfile": {
+        "companyName": "WhatBytes",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/company/65c84a46d870c1135aafe5eb/logo.jpg?d=1707634089259",
+        "refLocation": {
+          "city": "Bangalore",
+          "state": "Karnataka",
+          "country": "India",
+          "createdAt": "2021-09-06T12:09:58.433Z",
+          "updatedAt": "2021-09-06T12:09:58.433Z"
+        }
+      }
+    },
+    "internshipStatus": "in-process",
+    "internshipMode": "semi-fulltime",
+    "isInternshipModeFlexible": false,
+    "duration": 3,
+    "isDurationFlexible": false,
+    "startDate": "2024-03-12T07:00:58.257Z",
+    "numOfPositions": 2,
+    "isRemoteInternship": true,
+    "refInternshipTitle": {
+      "name": "Fullstack Developer",
+      "createdAt": "2021-09-06T07:16:02.072Z",
+      "updatedAt": "2021-09-06T07:16:02.072Z",
+      "type": 1
+    },
+    "experienceLevel": 2,
+    "immediate": true,
+    "createdAt": "2024-02-11T07:00:57.516Z",
+    "refAdditionalSkills": [],
+    "applicantCount": 2692,
+    "isBookmarked": false,
+    "matchProbability": 25
+  },
+  {
+    "stipendRange": [12000, 15000],
+    "refSkills": [
+      {
+        "name": "Figma",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/figma-icon.svg"
+      },
+      {
+        "name": "Illustrator"
+      }
+    ],
+    "refOptionalSkills": [
+      {
+        "name": "AdobeXD",
+        "logoUrl": "https://production-cuvette.s3.amazonaws.com/skillsIcon/Adobe_XD_CC_icon.svg"
+      },
+      {
+        "name": "Canva"
+      }
+    ],
+    "jobOffer": [6, 10],
+    "applicationQuestions": [],
+    "refUser": {
+      "refCompanyProfile": {
+        "companyName": "WhatBytes",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/company/65c84a46d870c1135aafe5eb/logo.jpg?d=1707634089259",
+        "refLocation": {
+          "city": "Bangalore",
+          "state": "Karnataka",
+          "country": "India",
+          "createdAt": "2021-09-06T12:09:58.433Z",
+          "updatedAt": "2021-09-06T12:09:58.433Z"
+        }
+      }
+    },
+    "internshipStatus": "in-process",
+    "internshipMode": "semi-fulltime",
+    "isInternshipModeFlexible": false,
+    "duration": 3,
+    "isDurationFlexible": false,
+    "startDate": "2024-03-12T06:58:32.308Z",
+    "numOfPositions": 2,
+    "isRemoteInternship": true,
+    "refInternshipTitle": {
+      "name": "UI/UX Designer",
+      "type": 1
+    },
+    "experienceLevel": 2,
+    "immediate": true,
+    "createdAt": "2024-02-11T06:58:31.542Z",
+    "refAdditionalSkills": [],
+    "applicantCount": 814,
+    "isBookmarked": false,
+    "matchProbability": 10
+  },
+  {
+    "stipendRange": [15000, 18000],
+    "refSkills": [
+      {
+        "name": "React.js",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/React-icon.svg"
+      },
+      {
+        "name": "NextJs",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/next-js.svg"
+      },
+      {
+        "name": "Typescript",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/Typescript-icon.svg"
+      }
+    ],
+    "refOptionalSkills": [
+      {
+        "name": "Javascript",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/JavaScript-icon.svg"
+      },
+      {
+        "name": "API",
+        "logoUrl": ""
+      },
+      {
+        "name": "A/B Testing"
+      }
+    ],
+    "jobOffer": [],
+    "applicationQuestions": [
+      {
+        "question": "Why should you be hired for this role?"
+      },
+      {
+        "question": ""
+      }
+    ],
+    "refUser": {
+      "refCompanyProfile": {
+        "companyName": "TrustedKit",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/company/65a6b8a8a2bd012b798b292e/logo.jpg?d=1705425216340",
+        "refLocation": {
+          "city": "Bangalore",
+          "state": "Karnataka",
+          "country": "India",
+          "createdAt": "2021-09-06T12:09:58.433Z",
+          "updatedAt": "2021-09-06T12:09:58.433Z"
+        }
+      }
+    },
+    "internshipStatus": "in-process",
+    "internshipMode": "semi-fulltime",
+    "isInternshipModeFlexible": false,
+    "duration": 2,
+    "isDurationFlexible": false,
+    "startDate": "2024-03-13T04:48:18.146Z",
+    "numOfPositions": 1,
+    "isRemoteInternship": true,
+    "refInternshipTitle": {
+      "name": "Frontend Developer",
+      "createdAt": "2021-09-06T07:16:02.072Z",
+      "updatedAt": "2021-09-06T07:16:02.072Z",
+      "type": 1
+    },
+    "refLocation": {
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "country": "India",
+      "createdAt": "2021-09-06T12:09:58.433Z",
+      "updatedAt": "2021-09-06T12:09:58.433Z"
+    },
+    "experienceLevel": 3,
+    "immediate": true,
+    "createdAt": "2024-02-10T17:20:25.125Z",
+    "refAdditionalSkills": [],
+    "applicantCount": 1015,
+    "isBookmarked": false,
+    "matchProbability": 25
+  },
+  {
+    "stipendRange": [10000, 10000],
+    "refSkills": [
+      {
+        "name": "Market Research",
+        "createdAt": "2021-09-06T07:03:14.268Z",
+        "updatedAt": "2021-09-06T07:03:14.268Z",
+        "isApproved": true
+      },
+      {
+        "name": "Product Management",
+        "logoUrl": ""
+      },
+      {
+        "name": "Product Design"
+      },
+      {
+        "name": "Product Planning"
+      },
+      {
+        "name": "wireframing and prototyping"
+      }
+    ],
+    "refOptionalSkills": [
+      {
+        "name": "Growth Mindset",
+        "createdAt": "2021-09-06T07:03:14.268Z",
+        "updatedAt": "2021-09-06T07:03:14.268Z",
+        "isApproved": true
+      },
+      {
+        "name": "Figma",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/figma-icon.svg"
+      },
+      {
+        "name": "Analytical Thinking",
+        "createdAt": "2021-09-06T07:03:14.268Z",
+        "updatedAt": "2021-09-06T07:03:14.268Z",
+        "isApproved": true
+      },
+      {
+        "name": "Business Acumen"
+      }
+    ],
+    "jobOffer": [6, 12],
+    "applicationQuestions": [
+      {
+        "question": "Why should you be hired for this role?"
+      },
+      {
+        "question": ""
+      }
+    ],
+    "refUser": {
+      "refCompanyProfile": {
+        "companyName": "Enalo",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/company/626144b359a7ed80c18559ae/logo.jpg?d=1682292344033",
+        "refLocation": {
+          "city": "Hyderabad",
+          "state": "Telangana",
+          "country": "India",
+          "createdAt": "2021-09-06T12:09:58.433Z",
+          "updatedAt": "2021-09-06T12:09:58.433Z"
+        }
+      }
+    },
+    "internshipStatus": "in-process",
+    "internshipMode": "full-time",
+    "isInternshipModeFlexible": true,
+    "duration": 6,
+    "isDurationFlexible": true,
+    "startDate": "2024-03-11T15:01:19.572Z",
+    "numOfPositions": 1,
+    "isRemoteInternship": true,
+    "refInternshipTitle": {
+      "name": "Product Management",
+      "createdAt": "2021-09-06T07:16:02.072Z",
+      "updatedAt": "2021-09-06T07:16:02.072Z",
+      "type": 1
+    },
+    "experienceLevel": 3,
+    "immediate": true,
+    "createdAt": "2024-02-10T13:03:11.853Z",
+    "refAdditionalSkills": [],
+    "applicantCount": 881,
+    "isBookmarked": false,
+    "matchProbability": 10
+  },
+  {
+    "stipendRange": [10000, 12000],
+    "refSkills": [
+      {
+        "name": "Vue.js",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/Vue-icon.svg"
+      },
+      {
+        "name": "Typescript",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/Typescript-icon.svg"
+      },
+      {
+        "name": "ElectronJS",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/ElectronJS-icon.png"
+      }
+    ],
+    "refOptionalSkills": [],
+    "jobOffer": [],
+    "applicationQuestions": [],
+    "refUser": {
+      "refCompanyProfile": {
+        "companyName": "Secure Blink",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/company/613fa44883c4f428bad69a13/logo.jpg?d=1643976740737",
+        "refLocation": {
+          "city": "",
+          "state": "",
+          "country": "India"
+        }
+      }
+    },
+    "internshipStatus": "in-process",
+    "internshipMode": "semi-fulltime",
+    "isInternshipModeFlexible": false,
+    "duration": 6,
+    "isDurationFlexible": true,
+    "startDate": "2024-03-11T12:58:04.039Z",
+    "numOfPositions": 2,
+    "isRemoteInternship": true,
+    "refInternshipTitle": {
+      "name": "Frontend Developer",
+      "createdAt": "2021-09-06T07:16:02.072Z",
+      "updatedAt": "2021-09-06T07:16:02.072Z",
+      "type": 1
+    },
+    "experienceLevel": 3,
+    "immediate": true,
+    "createdAt": "2024-02-10T12:58:04.641Z",
+    "refAdditionalSkills": [],
+    "applicantCount": 1596,
+    "isBookmarked": false,
+    "matchProbability": 10
+  },
+  {
+    "stipendRange": [7500, 12000],
+    "refSkills": [
+      {
+        "name": "Javascript",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/JavaScript-icon.svg"
+      },
+      {
+        "name": "SQL",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/sqlite-icon.svg"
+      },
+      {
+        "name": "Manual testing",
+        "logoUrl": ""
+      },
+      {
+        "name": "Automation testing",
+        "logoUrl": ""
+      }
+    ],
+    "refOptionalSkills": [
+      {
+        "name": "Good Communication",
+        "createdAt": "2021-09-06T07:03:14.268Z",
+        "updatedAt": "2021-09-06T07:03:14.268Z",
+        "isApproved": true
+      },
+      {
+        "name": "Growth Mindset",
+        "createdAt": "2021-09-06T07:03:14.268Z",
+        "updatedAt": "2021-09-06T07:03:14.268Z",
+        "isApproved": true
+      },
+      {
+        "name": "Adaptability",
+        "createdAt": "2021-09-06T07:03:14.268Z",
+        "updatedAt": "2021-09-06T07:03:14.268Z",
+        "isApproved": true
+      },
+      {
+        "name": "Attention to Detail"
+      },
+      {
+        "name": "Process Driven"
+      }
+    ],
+    "jobOffer": [3, 6],
+    "applicationQuestions": [],
+    "refUser": {
+      "refCompanyProfile": {
+        "companyName": "Graviti",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/company/6290dcbe4c79fc0e31578c38/logo.jpg?d=1653661149754",
+        "refLocation": {
+          "city": "Mumbai",
+          "state": "Maharashtra",
+          "country": "India",
+          "createdAt": "2021-09-06T12:09:58.433Z",
+          "updatedAt": "2021-09-06T12:09:58.433Z"
+        }
+      }
+    },
+    "internshipStatus": "in-process",
+    "internshipMode": "full-time",
+    "isInternshipModeFlexible": true,
+    "duration": 6,
+    "isDurationFlexible": true,
+    "startDate": "2024-03-11T12:09:28.677Z",
+    "numOfPositions": 1,
+    "isRemoteInternship": true,
+    "refInternshipTitle": {
+      "name": "QA Engineer",
+      "createdAt": "2021-09-06T07:16:02.072Z",
+      "updatedAt": "2021-09-06T07:16:02.072Z",
+      "type": 1
+    },
+    "experienceLevel": 1,
+    "immediate": true,
+    "createdAt": "2024-02-10T12:09:28.429Z",
+    "refAdditionalSkills": [],
+    "applicantCount": 2029,
+    "isBookmarked": false,
+    "matchProbability": 10
+  },
+  {
+    "stipendRange": [5000, 5001],
+    "refSkills": [
+      {
+        "name": "React.js",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/React-icon.svg"
+      },
+      {
+        "name": "NodeJs",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/Node.js-icon.svg"
+      },
+      {
+        "name": "ExpressJs",
+        "logoUrl": "https://production-cuvette.s3.amazonaws.com/skillsIcon/expressjs-icon.svg"
+      },
+      {
+        "name": "Azure",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/microsoft_azure-icon.svg"
+      },
+      {
+        "name": "Firebase",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/Firebase-icon.png"
+      }
+    ],
+    "refOptionalSkills": [
+      {
+        "name": "Javascript",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/JavaScript-icon.svg"
+      },
+      {
+        "name": "HTML",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/html-icon.svg"
+      },
+      {
+        "name": "CSS",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/Css-icon.svg"
+      }
+    ],
+    "jobOffer": [],
+    "applicationQuestions": [],
+    "refUser": {
+      "refCompanyProfile": {
+        "companyName": "Sellerkin",
+        "logoUrl": "",
+        "refLocation": {
+          "city": "Delhi",
+          "state": "Delhi",
+          "country": "India",
+          "createdAt": "2021-09-06T12:09:58.433Z",
+          "updatedAt": "2021-09-06T12:09:58.433Z"
+        }
+      }
+    },
+    "internshipStatus": "in-process",
+    "internshipMode": "part-time",
+    "isInternshipModeFlexible": false,
+    "duration": 2,
+    "isDurationFlexible": false,
+    "startDate": "2024-03-11T09:00:58.793Z",
+    "numOfPositions": 1,
+    "isRemoteInternship": true,
+    "refInternshipTitle": {
+      "name": "Cloud Engineer",
+      "createdAt": "2021-09-06T07:16:02.072Z",
+      "updatedAt": "2021-09-06T07:16:02.072Z",
+      "type": 1
+    },
+    "experienceLevel": 2,
+    "immediate": true,
+    "createdAt": "2024-02-10T09:00:29.098Z",
+    "refAdditionalSkills": [],
+    "applicantCount": 1032,
+    "isBookmarked": false,
+    "matchProbability": 25
+  },
+  {
+    "stipendRange": [30000, 40000],
+    "refSkills": [
+      {
+        "name": "React.js",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/React-icon.svg"
+      },
+      {
+        "name": "NodeJs",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/Node.js-icon.svg"
+      },
+      {
+        "name": "Python",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/python-icon.svg"
+      },
+      {
+        "name": "GraphQL",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/GraphQL-icon.svg"
+      },
+      {
+        "name": "AWS",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/amazon_aws-icon.svg"
+      }
+    ],
+    "refOptionalSkills": [],
+    "jobOffer": [10, 12],
+    "applicationQuestions": [],
+    "refUser": {
+      "refCompanyProfile": {
+        "companyName": "Trisetra, inc",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/company/62c8ade3e12e9d1343606528/logo.jpg?d=1657318999763",
+        "refLocation": {
+          "city": "",
+          "state": "",
+          "country": "United States Of America (USA)"
+        }
+      }
+    },
+    "internshipStatus": "in-process",
+    "internshipMode": "full-time",
+    "isInternshipModeFlexible": false,
+    "duration": 3,
+    "isDurationFlexible": false,
+    "startDate": "2024-03-11T06:04:01.953Z",
+    "numOfPositions": 1,
+    "isRemoteInternship": true,
+    "refInternshipTitle": {
+      "name": "Backend Developer",
+      "createdAt": "2021-09-06T07:16:02.072Z",
+      "updatedAt": "2021-09-06T07:16:02.072Z",
+      "type": 1
+    },
+    "experienceLevel": 3,
+    "immediate": true,
+    "createdAt": "2024-02-10T07:04:02.669Z",
+    "refAdditionalSkills": [],
+    "applicantCount": 2525,
+    "isBookmarked": false,
+    "matchProbability": 10
+  },
+  {
+    "stipendRange": [30000, 40000],
+    "refSkills": [
+      {
+        "name": "React.js",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/React-icon.svg"
+      },
+      {
+        "name": "CSS",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/Css-icon.svg"
+      },
+      {
+        "name": "AWS",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/amazon_aws-icon.svg"
+      },
+      {
+        "name": "Git",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/git-scm-icon.svg"
+      },
+      {
+        "name": "Software Workflow"
+      }
+    ],
+    "refOptionalSkills": [],
+    "jobOffer": [10, 12],
+    "applicationQuestions": [],
+    "refUser": {
+      "refCompanyProfile": {
+        "companyName": "Trisetra, inc",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/company/62c8ade3e12e9d1343606528/logo.jpg?d=1657318999763",
+        "refLocation": {
+          "city": "",
+          "state": "",
+          "country": "United States Of America (USA)"
+        }
+      }
+    },
+    "internshipStatus": "in-process",
+    "internshipMode": "full-time",
+    "isInternshipModeFlexible": true,
+    "duration": 3,
+    "isDurationFlexible": false,
+    "startDate": "2024-03-11T06:01:31.102Z",
+    "numOfPositions": 1,
+    "isRemoteInternship": true,
+    "refInternshipTitle": {
+      "name": "Frontend Developer",
+      "createdAt": "2021-09-06T07:16:02.072Z",
+      "updatedAt": "2021-09-06T07:16:02.072Z",
+      "type": 1
+    },
+    "experienceLevel": 3,
+    "immediate": true,
+    "createdAt": "2024-02-10T07:01:32.003Z",
+    "refAdditionalSkills": [],
+    "applicantCount": 2971,
+    "isBookmarked": false,
+    "matchProbability": 20
+  },
+  {
+    "stipendRange": [8000, 12000],
+    "refSkills": [
+      {
+        "name": "Figma",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/figma-icon.svg"
+      },
+      {
+        "name": "Product Design"
+      },
+      {
+        "name": "Responsive Design"
+      },
+      {
+        "name": "UI Design"
+      },
+      {
+        "name": "UX Design"
+      }
+    ],
+    "refOptionalSkills": [
+      {
+        "name": "Content Creation"
+      },
+      {
+        "name": "Content Marketing"
+      },
+      {
+        "name": "Creative Content Creation"
+      },
+      {
+        "name": "Website/Landing Page Maintenance"
+      },
+      {
+        "name": "Content Writing",
+        "logoUrl": ""
+      }
+    ],
+    "jobOffer": [3, 5],
+    "applicationQuestions": [],
+    "refUser": {
+      "refCompanyProfile": {
+        "companyName": "TRIKL",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/company/64d7f33df111198cbab55880/logo.jpg?d=1691874319363",
+        "refLocation": {
+          "city": "Bangalore",
+          "state": "Karnataka",
+          "country": "India",
+          "createdAt": "2021-09-06T12:09:58.433Z",
+          "updatedAt": "2021-09-06T12:09:58.433Z"
+        }
+      }
+    },
+    "internshipStatus": "in-process",
+    "internshipMode": "full-time",
+    "isInternshipModeFlexible": false,
+    "duration": 2,
+    "isDurationFlexible": false,
+    "startDate": "2024-03-11T06:02:46.068Z",
+    "numOfPositions": 1,
+    "isRemoteInternship": false,
+    "refInternshipTitle": {
+      "name": "UI/UX Designer",
+      "type": 1
+    },
+    "refLocation": {
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "country": "India",
+      "createdAt": "2021-09-06T12:09:58.433Z",
+      "updatedAt": "2021-09-06T12:09:58.433Z"
+    },
+    "experienceLevel": 1,
+    "immediate": true,
+    "createdAt": "2024-02-10T06:02:46.259Z",
+    "refAdditionalSkills": [],
+    "applicantCount": 819,
+    "isBookmarked": false,
+    "matchProbability": 10
+  },
+  {
+    "stipendRange": [15000, 20000],
+    "refSkills": [
+      {
+        "name": "Figma",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/figma-icon.svg"
+      },
+      {
+        "name": "UI/UX",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/UIUX-icon.png"
+      },
+      {
+        "name": "UI Design"
+      }
+    ],
+    "refOptionalSkills": [],
+    "jobOffer": [3, 8],
+    "applicationQuestions": [],
+    "refUser": {
+      "refCompanyProfile": {
+        "companyName": "CLIPPR",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/company/62795e5794e4bd539f2b473d/logo.jpg?d=1707499069869",
+        "refLocation": {
+          "city": "Bangalore",
+          "state": "Karnataka",
+          "country": "India",
+          "createdAt": "2021-09-06T12:09:58.433Z",
+          "updatedAt": "2021-09-06T12:09:58.433Z"
+        }
+      }
+    },
+    "internshipStatus": "in-process",
+    "internshipMode": "semi-fulltime",
+    "isInternshipModeFlexible": false,
+    "duration": 2,
+    "isDurationFlexible": false,
+    "startDate": "2024-03-10T17:15:06.299Z",
+    "numOfPositions": 1,
+    "isRemoteInternship": true,
+    "refInternshipTitle": {
+      "name": "UI/UX Designer",
+      "type": 1
+    },
+    "experienceLevel": 3,
+    "immediate": true,
+    "createdAt": "2024-02-09T17:15:06.493Z",
+    "refAdditionalSkills": [],
+    "applicantCount": 1053,
+    "isBookmarked": false,
+    "matchProbability": 10
+  },
+  {
+    "stipendRange": [10000, 15000],
+    "refSkills": [
+      {
+        "name": "Good Communication",
+        "createdAt": "2021-09-06T07:03:14.268Z",
+        "updatedAt": "2021-09-06T07:03:14.268Z",
+        "isApproved": true
+      },
+      {
+        "name": "React Native",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/React-icon.svg"
+      },
+      {
+        "name": "NodeJs",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/Node.js-icon.svg"
+      },
+      {
+        "name": "Figma",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/figma-icon.svg"
+      },
+      {
+        "name": "Debugging"
+      }
+    ],
+    "refOptionalSkills": [],
+    "jobOffer": [],
+    "applicationQuestions": [],
+    "refUser": {
+      "refCompanyProfile": {
+        "companyName": "GoodLives",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/company/613fa45383c4f428bad69b37/logo.jpg?d=1642495886344",
+        "refLocation": {
+          "city": "",
+          "state": "",
+          "country": "India"
+        }
+      }
+    },
+    "internshipStatus": "in-process",
+    "internshipMode": "full-time",
+    "isInternshipModeFlexible": false,
+    "duration": 3,
+    "isDurationFlexible": false,
+    "startDate": "2024-03-10T12:55:02.917Z",
+    "numOfPositions": 1,
+    "isRemoteInternship": true,
+    "refInternshipTitle": {
+      "name": "Mobile App Developer",
+      "createdAt": "2021-09-06T07:16:02.072Z",
+      "updatedAt": "2021-09-06T07:16:02.072Z",
+      "type": 1
+    },
+    "experienceLevel": 3,
+    "immediate": true,
+    "createdAt": "2024-02-09T12:55:03.943Z",
+    "refAdditionalSkills": [],
+    "applicantCount": 826,
+    "isBookmarked": false,
+    "matchProbability": 10
+  },
+  {
+    "stipendRange": [8000, 12000],
+    "refSkills": [
+      {
+        "name": "React.js",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/React-icon.svg"
+      },
+      {
+        "name": "NodeJs",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/Node.js-icon.svg"
+      },
+      {
+        "name": "MongoDB",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/mongodb-icon.svg"
+      },
+      {
+        "name": "Figma",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/skillsIcon/figma-icon.svg"
+      },
+      {
+        "name": "Communication skills"
+      }
+    ],
+    "refOptionalSkills": [],
+    "jobOffer": [3.6, 4.8],
+    "applicationQuestions": [
+      {
+        "question": "Why should you be hired for this role?"
+      },
+      {
+        "question": ""
+      }
+    ],
+    "refUser": {
+      "refCompanyProfile": {
+        "companyName": "GoodLives",
+        "logoUrl": "https://production-cuvette.s3.ap-south-1.amazonaws.com/company/613fa45383c4f428bad69b37/logo.jpg?d=1642495886344",
+        "refLocation": {
+          "city": "",
+          "state": "",
+          "country": "India"
+        }
+      }
+    },
+    "internshipStatus": "in-process",
+    "internshipMode": "full-time",
+    "isInternshipModeFlexible": false,
+    "duration": 5,
+    "isDurationFlexible": false,
+    "startDate": "2024-03-10T12:55:50.642Z",
+    "numOfPositions": 1,
+    "isRemoteInternship": true,
+    "refInternshipTitle": {
+      "name": "Frontend Developer",
+      "createdAt": "2021-09-06T07:16:02.072Z",
+      "updatedAt": "2021-09-06T07:16:02.072Z",
+      "type": 1
+    },
+    "experienceLevel": 3,
+    "immediate": true,
+    "createdAt": "2024-02-09T12:49:38.910Z",
+    "refAdditionalSkills": [],
+    "applicantCount": 2016,
+    "isBookmarked": false,
+    "matchProbability": 25
+  }
+]
